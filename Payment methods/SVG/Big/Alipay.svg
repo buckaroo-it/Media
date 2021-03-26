@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00a1e9;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" width="32" height="24" rx="1.667" ry="1.667"/>
+  <image id="Alipay_logo" x="4" y="8" width="24" height="9" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAJCAYAAAAo/ezGAAABg0lEQVQokZXTz4vPYRAH8BfthrIo1Gq3FZuj1JaDyLYOktotUuviIH8DFzcOHLm47IaSJEdRcvDjJBdCyo/2QFtYColE+9azZuvb5uJdn5qZ55ln3vOe+UgymWQ2/8ZMkqEk6tucZLjD35ukp+yxjvhoksFmd+EwFvmLKVzAyfLXYBwvcQC7K7YBT3AaZ9GDo3U2htvoxbVWYDE+4Rle4y7uYRW2YAm+YTne4iOOFJEW+4HnmKm8FRiptyYWF9PVzHWzFqO4WYU78Qr9+IXrOI+veI9Dda+dfS72DV/mH7mKW3iM7biBTQsKvKgCe3C/I34Hx8p+g4vF/gG2dpWWO0vraewvGU7hYCX21gzGi3WL/8RlzBaZCQxgFx7WPKZaB8tK/9bqJWzDUwQ7cBzvMFnyfa8ij+pem8MQflcHjcy5mtt0KzBYA72CYZypWZyohLYVDfuKXUOTar6zpsJ6fMDGuteHpXPq/Md/0PZ6IEl3kpEF/tzOJ+lPsjJJX5J1Sbr/AMU07TwovrD7AAAAAElFTkSuQmCC"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="48" viewBox="0 0 64 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0018a8;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" width="64" height="48" rx="5" ry="5"/>
+  <image id="deutsche-bank-logo-without-wordmark" x="14" y="6" width="36" height="36" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAABT0lEQVRYhe2YvUoEMRSFP38KLbV1UWwFn0DE1s7GwsrSwkdwC7F3QbCzsFHEV3BLsdQ3ULDQYm21UmEkkGrITTLJnTDCnPIe5uYjmcyZZKqqqooOabpLMPRAEeoc0KxQ3wTeCoz/ACzFABmY1wJAv/XCv1myXK0Aq0KPR+CrJNACcA8sO7wxsO17uI0luxBgPoB9wJsM2kAHwK7gGZhJqIEm0BpwJninwF1MEy2gOeAWmHd4T8AwtpEW0AhYd9TNbtoDvksC7QCHgmfqz02a5QINgEvBuwaumjbMAZqxgy46vBfPrLUGdARsOeo/9r35LAm0ARwL3tDGQ5JSgEw03Nglq2tsvznJSgHKioaQmgJlR4MmkEo0aAGpRYMWkFo0aACpRkNIMX+MZkedOOqTlGjQADrXHtSn/uQaknQd8+46xLWgQT2C+vuhkHogr4A/mY1Atr3ItvAAAAAASUVORK5CYII="/>
+</svg>

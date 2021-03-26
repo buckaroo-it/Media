@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="48" viewBox="0 0 64 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #377f7a;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" width="64" height="48" rx="5" ry="5"/>
+  <image id="afterpay" x="8" y="19" width="50" height="10" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAKCAYAAAD2Fg1xAAAClUlEQVQ4jdWUT2iXdRzHX9Mx55aZzQkyskitWSqIA7U8JF7aJaJDKEgnYRhBeekUNkpRD4LuoIIi6cEOkhAkCsJOC8IirGOHGh6U0tyGNnXNveK73j96eJwdBA++4eH5Pp/n/f1+/r0/X9RO9Uv1nnpT3avOVnnMz7z4/VsdUz9Tmx7B53r1g1nAMaADWAP0AluAnfyHl4HF+WoCnufheDr/Z9cYc4GVQFvF1g8syfnFb198N/Ac0D3DWXU0T3PUO+qqSoZ96qDapg6lU6Vq/eFdm6EqhXtKnch5hfNO/r2mjqjj6g11Y+yX1S2VMwbU4+oi9WL8jqrD6rpwin1T1gvV6439pSOtwK1Klr8Dz6Y6zwALgQ3AJ8CLqW4dB4BXgKWp+sfAaeAl4FPgKNAOHA+XnH036znA68CvwElgJCopcRwBvsn+TmB+9jyV2KbRnPdHwGjW3XmXtpdEPwe+jwQbMjkIjCXIgm3ACWBzvgV+Ad4FlgH7YxuoSXN3fC/PeWeAPUAXcDucsvf9FPN/9UW03UB7ZT2RBEvHdgCrYx9N1d5KYkXHKyrVKvgR+AHYDkzFdhXYWuEMhnMFGAIWxH6/FqfpwFSKywOz4794oaLVt6PfMhNf1GahQ72vvqo2q5fUXeoZ9XxmpfB61QtZF42/McNcDcdX3f6delJtyS32YWIs3K/Uw7H3xT69r3RkvNLGgjvpwF+12Sn4EziUKo5nno7m31ngGvBHbrkdsY+FW8dIRc5VFJl+DVwH7kUVvyXGfcA54D2gpdq5ktmcbKii2CZz3U7O4KwrwV6u/e/OgP5cKU5rZajrPup+GyjyKVItF0fxUeIoCZVE1mbW3gTWAT0NaT1JT5f6rTql/qT2TNuVfwDxfuMYd2dEqQAAAABJRU5ErkJggg=="/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="48" viewBox="0 0 64 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb3c7;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" width="64" height="48" rx="5" ry="5"/>
+  <image id="Klarna_Logo_black" x="9" y="19" width="48" height="11" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAALCAYAAAA5vw7pAAAB+0lEQVRIic3VTYiPcRAH8I93eY+wyYYjBzmSUkStm4tSDjZnOSgHoeQiF8qWXCQlBwcXF0nZzVuRQjjZCLVEFtF6p5/m2cbj//w5ab/19Mwzz8w885uZ7zzwI659fsdQ6HeFtrLrNoIwuiGVTkwMeWAkJVxH0wE2Jvny/0/r3zG2heVM7Az5Fvobos3AHnThG65E12bhCOZgE+7hLpajB4fD/yy2hf1N7E7f6sBerIlRvogFmIADWIFzlX3mwHT0JV1XSjhzYCruJ1396o54Rf4c98dY1sbnKaZE8k/a2G3A/Kr4eYQm4wZWxfNxnG+o/g4swSC2YnUb23F4izM1fW8U6GA8l6TWxcE7g3ulg2txveb7DF/rlS2OF9Lz5ppT7sDVkLen95PwwZ8deBcJqXVgcfJ9kfz6Q8487Kh1YBh1Em/Bq5CPYmFDVSu/j0n3JbhQx50YjzrydhtK78a00H2K5BsTqTCQ9vw0nG4gel/cS5XXxzidDG7U0epQ7dAb7w7FaC7FKYxKPmW0HgbRW/7IepJ+f+jyCM3+C9HyCPWmuHmEyharUAhe+S2KKWhH4mshD5bqVtUsQSqUNTovVtzKmOHK7jlexiorK6104Hv8L0pHyxouNlWnbqe471OcYRLiAd7gNR5F7ELuskaLzyXMxfg43LFfOXHiJ1eqrW1+fTSdAAAAAElFTkSuQmCC"/>
+</svg>
