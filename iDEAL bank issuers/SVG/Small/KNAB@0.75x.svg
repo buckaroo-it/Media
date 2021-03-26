@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="48" viewBox="0 0 64 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #003852;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" width="64" height="48" rx="5" ry="5"/>
+  <image id="Knab_bank" data-name="Knab bank" x="8" y="16" width="49" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAQCAYAAAC/bJePAAACjElEQVRIid2WXWjPYRTHP9gixuZljaxGiZTGjeRGEmpM4saVQiiZzJ2XtBuhVsqS3Yglb0WGpElxQy0RytsVJXmtRWNjbX11dP72ePb8tv/ckG/96nfO9zzPc96e8/shqU29aJLEX3ymSOoJ/KnNx5ehwFj+HZTAT58GhUEv+BfxXwRR0A83Hdgc2HwGjgA7gWGuawbeA9vdvgO4BTQCncFes4FlQCUw0XVvgTvASaA9w4dCYCNQBYz3s64Bp4HuX1b6HbmLXSHpdcB0SFokaWFkf07SV/VFq6QC3+tggg9h51S67ZyI68xYc1dSaXixY5QCN4DJrreMVgM3E7ZrgJEJ/TznDC8C/QfgEdAW6OycCxldMSKjQnOBs1mVaJZ0P5C7JK0IxllcCUOdpCpJlyL9CV9TJKlBvdnGq9QY2S9OVOK7pC2Syv3sxxFvuj5BxNgQzeQ4iCsBVxZxLYmZXixphju7NbKvSQSxN1o/M+Lrs9opRPUAfGvwbpfuS6IVRgH1wBvgE/AceOBDIsS4xP7XI/kZ8CqQpzHAdDKsAlYClzP4jkjuieQhPk0WBLp2d6Tbp1YOqYSm/CuM+dTCU5FsGRuTEcRAmBsFcAaYAMwC1uWxfnUk28CYFMgvUkGcB9YCFwNdObDvD4Moi2Rro64MLoUdwH5gfsIvcu0WlyvXHtuAJcBol2sSFcoHTyKbOqDC3/OphCV5lz8x7gEt9PPbYZdwdyBbbx8LvtT5wsrdENgWeULs+ZjHHt8y9C/9O7QJ2GOVsEOKnbwdGB71XwRrpxzsUjV5UIan0eaHg0zbFDLUAveB9cBU/9DZZT8EHACGu91DD/p4kCx7Xw4s9b/td8BVP8cGRDFQ8gMGpATltToWngAAAABJRU5ErkJggg=="/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="48" viewBox="0 0 64 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d32aa;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" width="64" height="48" rx="5" ry="5"/>
+  <image id="LOGO_Payoff" x="8" y="16" width="48" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAQCAYAAABQrvyxAAADMklEQVRIibWWWYiOYRTHf2MdM9bPvguFspQtM0kppexXwpUbI1xQxoWSC9xKJBdIYcQNhaTQTAqNJU32fRlL9mXs61+H89Xj6X1f341TT9/3nu05//d5zv+8RZJwaQp0BzoDPYBWwA/gCfAQuMq/xeIHAn0BS3wTuAI8DyItdzHwAXjme6RJF6AZ8BNoCTwGvgOdPP+HJoCtPkA5MNw37wCUePLXwCNgP7AvY7OewEJgBNDVdRZ3AtgEvHLdYGA2UO8v5ZgDiaUUWOC/VnRrYI3HT3JQl5G0Q9JHFSYHJeXs1KJVIel5RobbkqZ7zLDI9kTSzIScVZHfIUnFknYHujpzvFJg8Xk5Gm00P8Hni6TPCfo8iDJJPyPbrCDn6shWK6lpArDjpjgdKJ5KWi9pjqQJkqZIWivpR5SwzJMNjGwNklZIGuq2hZKuB/a3krqmAH8nqb2kMZHecvYJwG0PbDUxgL0JR2lrcZR0ueu3BDq7hiMTYjtJqg/8Nga2zVHeW5KeBc92SuOjfH8BaBI1TvOUBt0MrARy/pz/HRP4VAHngAFOBL2Boc46bQO/ic4sX4FFwJAgT79o3yVATRb3xQCKUvy+OYvkAj+j226BTxlQ6wWVZOzZ3wFe87xTgWqPC2UdsCGr+CQAaWIzolFkK41ObHBG/Hvgni+bDS8Cm/0/FQEwjj9SSGGFAojFwLzxwkrd9sXXp9/8/GddcL6/4cUnyTRgbqS3E94FjATu/g8ALf1K3ferZNIAjAVup0zXjtFENhkE7EzpvZyDGOeDLFHia1GoFLtfOJmtwHkJxdtLWuWnUBkUa58qB33C5mUpcDh4tr7alllTRKOHUmi0hU/TvGx3fRtJDyMqrJO01GeJ0e3ZyF7psXsi/VbX90r4MqjImgPhBoczANwN/HYEtuGSXqkwsb26S1oWeVdLKgpyTk6Y1OVpk/hOoKhNAVAi6X3gdyCyj5J0LAPCVx96jSTNiGwvg+kcrqkJp9c/OoGLhtoaL9+ID4AzCTetsTdTO2cIa9S6BL/xwGinVJsFRpHGRMeBS+4zwb927XPaBtr5fzCNDTn7fLa9T3rf/qFcePwL7+4opIbO9AQAAAAASUVORK5CYII="/>
+</svg>
