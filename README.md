@@ -36,8 +36,8 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Payconiq](https://www.buckaroo.eu/solutions/payment-methods/payconiq)  |  ![Payconiq](Payment%20methods/PNG/Payconic.png) | ![Payconiq](Payment%20methods/SVG/Payconiq.svg) |
 | [Przelewy24](https://www.buckaroo.eu/solutions/payment-methods/przelewy24)  |  ![Przelewy24](Payment%20methods/PNG/Przelewy24.png) | ![Przelewy24](Payment%20methods/SVG/Przelewy24.svg) |
 | [Request to Pay](https://www.buckaroo.eu/solutions/payment-methods/request-to-pay)  |  ![Request to Pay](Payment%20methods/PNG/RequestToPay.png) | ![Request to Pay](Payment%20methods/SVG/RequestToPay.svg) |
-| [SEPA Credit Transfer](https://www.buckaroo.eu/solutions/payment-methods/sepa-credit-transfer)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-directdebit.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-directdebit.svg) |
-| [SEPA Direct Debit](https://www.buckaroo.eu/solutions/payment-methods/sepa-direct-debit)  |  ![SEPA Direct Debit](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Direct Debit](Payment%20methods/SVG/SEPACreditTransfer.svg) |
+| [SEPA Credit Transfer](https://www.buckaroo.eu/solutions/payment-methods/sepa-credit-transfer)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-credittransfer.svg) |
+| [SEPA Direct Debit](https://www.buckaroo.eu/solutions/payment-methods/sepa-direct-debit)  |  ![SEPA Direct Debit](Payment%20methods/PNG/SEPA-directdebit.png) | ![SEPA Direct Debit](Payment%20methods/SVG/SEPA-directdebit.svg) |
 | [Sofort](https://www.buckaroo.eu/solutions/payment-methods/sofort)  |  ![Sofort](Payment%20methods/PNG/Sofort.png) | ![Sofort](Payment%20methods/SVG/Sofort.svg) |
 | [Tinka](https://www.buckaroo.eu/solutions/payment-methods/tinka)  |  ![Tinka](Payment%20methods/PNG/tinka.png) | ![Tinka](Payment%20methods/SVG/Tinka.svg) |
 | [Trustly](https://www.buckaroo.eu/solutions/payment-methods/trustly)  |  ![Tinka](Payment%20methods/PNG/Trustly.png) | ![Tinka](Payment%20methods/SVG/Trustly.svg) |
