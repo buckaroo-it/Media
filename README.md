@@ -15,7 +15,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 - **Contact:** [support@buckaroo.nl](mailto:support@buckaroo.nl) or [+31 (0)30 711 50 50](tel:+310307115050)
 
 # Logos payment methods
-| Method  | .JPG | .SVG |
+| Method  | .PNG | .SVG |
 | ------------- | ------------- | ------------ |
 | [AfterPay](https://www.buckaroo.eu/solutions/payment-methods/afterpay)  |  ![AfterPay](Payment%20methods/PNG/AfterPay.png)  | ![AfterPay](Payment%20methods/SVG/AfterPay.svg) |
 | [Alipay](https://www.buckaroo.eu/solutions/payment-methods/alipay)  |  ![Alipay](Payment%20methods/PNG/AliPay.png)  | ![Alipay](Payment%20methods/SVG/Alipay.svg) |
@@ -44,7 +44,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [WeChat Pay](https://www.buckaroo.eu/solutions/payment-methods/wechat-pay)  |  ![WeChat Pay](Payment%20methods/PNG/WeChatPay.png) | ![WeChat Pay](Payment%20methods/SVG/WeChat%20Pay.svg) |
 
 # Logos creditcard issuers
-| Method  | .JPG | .SVG |
+| Method  | .PNG | .SVG |
 | ------------- | ------------- | ------------ |
 | [American Express](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![American Express](Creditcard%20issuers/PNG/AmericanExpress.png)  | ![American Express](Creditcard%20issuers/SVG/AMEX.svg) |
 | [Carte bancaire](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Carte bancaire](Creditcard%20issuers/PNG/CarteBancaire.png)  | ![Carte bancaire](Creditcard%20issuers/SVG/CarteBancaire.svg) |
@@ -59,7 +59,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [V PAY](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![V PAY](Creditcard%20issuers/PNG/VPAY.png)  | ![V PAY](Creditcard%20issuers/SVG/VPay.svg) |
 
 # Logos iDEAL issuers
-| Method  | .JPG | .SVG |
+| Method  | .PNG | .SVG |
 | ------------- | ------------- | ------------ |
 | [ABN AMRO](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ABN AMRO](iDEAL%20bank%20issuers/PNG/ABNAMRO.png)  | ![ABN AMRO](iDEAL%20bank%20issuers/SVG/ABNAMRO.svg) | 
 | [ASN Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ASN Bank](iDEAL%20bank%20issuers/PNG/ASNBANK.png)  | ![ASN Bank](iDEAL%20bank%20issuers/SVG/ASNBank.svg) |
@@ -74,8 +74,23 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Triodos Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG/Triodos.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG/Triodos.svg) | 
 | [Van Lanschot](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG/vanLanschot.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG/vanLanschot.svg) | 
 
+# Alternative logos iDEAL issuers
+| Method  | .PNG | .SVG | .PNG blank | .SVG blank |
+| ------------- | ------------- | ------------ | ------------- | ------------ |
+| [ABN AMRO](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ABN AMRO](iDEAL%20bank%20issuers/PNG%20Alternative/ABNAMRO.png)  | ![ABN AMRO](iDEAL%20bank%20issuers/SVG%20Alternative/ABNAMRO.svg) |  ![ABN AMRO](iDEAL%20bank%20issuers/PNG%20Alternative/ABNAMRO_blank.png)  | ![ABN AMRO](iDEAL%20bank%20issuers/SVG%20Alternative/ABNAMRO_blank.svg) |
+| [ASN Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ASN Bank](iDEAL%20bank%20issuers/PNG%20Alternative/ASNBANK.png)  | ![ASN Bank](iDEAL%20bank%20issuers/SVG%20Alternative/ASNBank.svg) |  ![ASN Bank](iDEAL%20bank%20issuers/PNG%20Alternative/ASNBANK_blank.png)  | ![ASN Bank](iDEAL%20bank%20issuers/SVG%20Alternative/ASNBank_blank.svg) |
+| [Bunq](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Bunq](iDEAL%20bank%20issuers/PNG%20Alternative/Bunq.png)  | ![Bunq](iDEAL%20bank%20issuers/SVG%20Alternative/Bunq.svg) |  ![Bunq](iDEAL%20bank%20issuers/PNG%20Alternative/Bunq_blank.png)  | ![Bunq](iDEAL%20bank%20issuers/SVG%20Alternative/Bunq_blank.svg) |
+| [ING](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ING](iDEAL%20bank%20issuers/PNG%20Alternative/ING.png)  | ![ING](iDEAL%20bank%20issuers/SVG%20Alternative/ING.svg) |  ![ING](iDEAL%20bank%20issuers/PNG%20Alternative/ING_blank.png)  | ![ING](iDEAL%20bank%20issuers/SVG%20Alternative/ING_blank.svg) |
+| [KNAB](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![KNAB](iDEAL%20bank%20issuers/PNG%20Alternative/KNAB.png)  | ![KNAB](iDEAL%20bank%20issuers/SVG%20Alternative/KNAB.svg) |  ![KNAB](iDEAL%20bank%20issuers/PNG%20Alternative/KNAB_blank.png)  | ![KNAB](iDEAL%20bank%20issuers/SVG%20Alternative/KNAB_blank.svg) |
+| [Rabobank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Rabobank](iDEAL%20bank%20issuers/PNG%20Alternative/Rabobank.png)  | ![Rabobank](iDEAL%20bank%20issuers/SVG%20Alternative/Rabobank.svg) |  ![Rabobank](iDEAL%20bank%20issuers/PNG%20Alternative/Rabobank_blank.png)  | ![Rabobank](iDEAL%20bank%20issuers/SVG%20Alternative/Rabobank_blank.svg) |
+| [Regiobank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Rabobank](iDEAL%20bank%20issuers/PNG%20Alternative/Regiobank.png)  | ![Regiobank](iDEAL%20bank%20issuers/SVG%20Alternative/Regiobank.svg) |  ![Regiobank](iDEAL%20bank%20issuers/PNG%20Alternative/Regiobank_blank.png)  | ![Regiobank](iDEAL%20bank%20issuers/SVG%20Alternative/Regiobank_blank.svg) |
+| [Revolut](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Revolut](iDEAL%20bank%20issuers/PNG%20Alternative/Revolut.png)  | ![Revolut](iDEAL%20bank%20issuers/SVG%20Alternative/Revolut.svg) |  ![Revolut](iDEAL%20bank%20issuers/PNG%20Alternative/Revolut_blank.png)  | ![Revolut](iDEAL%20bank%20issuers/SVG%20Alternative/Revolut_blank.svg) |
+| [SNS Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![SNS Bank](iDEAL%20bank%20issuers/PNG%20Alternative/SNS.png)  | ![SNS Bank](iDEAL%20bank%20issuers/SVG%20Alternative/SNS.svg) |  ![SNS Bank](iDEAL%20bank%20issuers/PNG%20Alternative/SNS_blank.png)  | ![SNS Bank](iDEAL%20bank%20issuers/SVG%20Alternative/SNS_blank.svg) |
+| [Triodos Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG%20Alternative/Triodos.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG%20Alternative/Triodos.svg) |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG%20Alternative/Triodos_blank.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG%20Alternative/Triodos_blank.svg) |
+| [Van Lanschot](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Van Lanschot](iDEAL%20bank%20issuers/PNG%20Alternative/vanLanschot.png)  | ![Van Lanschot](iDEAL%20bank%20issuers/SVG%20Alternative/vanLanschot.svg) |  ![Van Lanschot](iDEAL%20bank%20issuers/PNG%20Alternative/vanLanschot_blank.png)  | ![Van Lanschot](iDEAL%20bank%20issuers/SVG%20Alternative/vanLanschot_blank.svg) |
+
 # Logos identification methods
-| Method  | .JPG | .SVG |
+| Method  | .PNG | .SVG |
 | ------------- | ------------- | ------------ |
 | [iDIN](https://www.buckaroo.eu/solutions/payment-methods/idin)  |  ![iDIN](Identification%20methods/PNG/iDIN.png)  | ![iDIN](Identification%20methods/SVG/iDIN.svg) |
 | [PiM](https://www.buckaroo.nl/oplossingen/betaalmethoden/pim)  |  ![PiM](Identification%20methods/PNG/PiM.png)  | ![PiM](Identification%20methods/SVG/PIM.svg) |
