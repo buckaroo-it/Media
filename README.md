@@ -53,7 +53,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Maestro](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Maestro](Creditcard%20issuers/PNG/Maestro.png)  | ![Maestro](Creditcard%20issuers/SVG/Maestro.svg) |
 | [Mastercard](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Mastercard](Creditcard%20issuers/PNG/Mastercard.png)  | ![Mastercard](Creditcard%20issuers/SVG/MasterCard.svg) |
 | [Nexi](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Nexi](Creditcard%20issuers/PNG/Nexi.png)  | ![Nexi](Creditcard%20issuers/SVG/Nexi.svg) |
-| [Postpay](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Postpay](Creditcard%20issuers/PNG/PostePay.png)  | ![Postpay](Creditcard%20issuers/SVG/Postepay.svg) |
+| [Postepay](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Postpay](Creditcard%20issuers/PNG/PostePay.png)  | ![Postpay](Creditcard%20issuers/SVG/Postepay.svg) |
 | [VISA](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![VISA](Creditcard%20issuers/PNG/VISA.png)  | ![VISA](Creditcard%20issuers/SVG/Visa.svg) |
 | [Visa Electron](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Visa Electron](Creditcard%20issuers/PNG/VISAelectron.png)  | ![Visa Electron](Creditcard%20issuers/SVG/VisaElectron.svg) |
 | [V PAY](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![V PAY](Creditcard%20issuers/PNG/VPAY.png)  | ![V PAY](Creditcard%20issuers/SVG/VPay.svg) |
