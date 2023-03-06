@@ -63,7 +63,6 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [ABN AMRO](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ABN AMRO](iDEAL%20bank%20issuers/PNG/ABNAMRO.png)  | ![ABN AMRO](iDEAL%20bank%20issuers/SVG/ABNAMRO.svg) | 
 | [ASN Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ASN Bank](iDEAL%20bank%20issuers/PNG/ASNBANK.png)  | ![ASN Bank](iDEAL%20bank%20issuers/SVG/ASNBank.svg) |
 | [bunq](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![bunq](iDEAL%20bank%20issuers/PNG/Bunq.png)  | ![bunq](iDEAL%20bank%20issuers/SVG/Bunq.svg) | 
-| [Handelsbanken](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Handelsbanken](iDEAL%20bank%20issuers/PNG/Handelsbank.png)  | ![Handelsbanken](iDEAL%20bank%20issuers/SVG/Handelsbanken.svg) | 
 | [ING](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ING](iDEAL%20bank%20issuers/PNG/ING.png)  | ![ING](iDEAL%20bank%20issuers/SVG/ING.svg) |
 | [KNAB](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![KNAB](iDEAL%20bank%20issuers/PNG/KNAB.png)  | ![KNAB](iDEAL%20bank%20issuers/SVG/KNAB.svg) | 
 | [Rabobank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Rabobank](iDEAL%20bank%20issuers/PNG/Rabobank.png)  | ![Rabobank](iDEAL%20bank%20issuers/SVG/Rabobank.svg) | 
