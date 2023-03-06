@@ -22,7 +22,8 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Apple Pay](https://www.buckaroo.eu/solutions/payment-methods/apple-pay)  |  ![Apple Pay](Payment%20methods/PNG/ApplePay.png) | ![Apple Pay](Payment%20methods/SVG/Apple%20Pay.svg) |
 | [Bancontact](https://www.buckaroo.eu/solutions/payment-methods/bancontact)  |  ![Bancontact](Payment%20methods/PNG/Bancontact.png) | ![Bancontact](Payment%20methods/SVG/Bancontact.svg) |
 | [Belfius](https://www.buckaroo.eu/solutions/payment-methods/belfius)  |  ![Belfius](Payment%20methods/PNG/Belfius.png) | ![Belfius](Payment%20methods/SVG/Belfius.svg) |
-| [Billink](https://www.buckaroo.eu/solutions/payment-methods/billink)  |  ![Belfius](Payment%20methods/PNG/Billink.png) | ![Belfius](Payment%20methods/SVG/Billink.svg) |
+| [Billink](https://www.buckaroo.eu/solutions/payment-methods/billink)  |  ![Belfius](Payment%20methods/PNG/Billink.png) | ![Billink](Payment%20methods/SVG/Billink.svg) |
+| [Buckaroo Voucher](https://docs.buckaroo.io/docs/buckaroo-voucher)  |  ![Buckaroo Voucher](Payment%20methods/PNG/BuckarooVoucher.png) | ![Buckaroo Voucher](Payment%20methods/SVG/BuckarooVoucher.svg) |
 | [Creditcards](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Creditcards](Payment%20methods/PNG/CreditCards.png) | ![Creditcards](Payment%20methods/SVG/CreditCards.svg) |
 | [EPS](https://www.buckaroo.eu/solutions/payment-methods/eps)  |  ![EPS](Payment%20methods/PNG/EPS.png) | ![EPS](Payment%20methods/SVG/EPS.svg) |
 | [Giftcards](https://www.buckaroo.eu/solutions/payment-methods/giftcards)  |  ![Giftcards](Payment%20methods/PNG/Giftcards.png) | ![Giftcards](Payment%20methods/SVG/Giftcards.svg) |
