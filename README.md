@@ -71,6 +71,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [SNS Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![SNS Bank](iDEAL%20bank%20issuers/PNG/SNS.png)  | ![SNS Bank](iDEAL%20bank%20issuers/SVG/SNS.svg) | 
 | [Triodos Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG/Triodos.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG/Triodos.svg) | 
 | [Van Lanschot](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG/vanLanschot.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG/vanLanschot.svg) | 
+| [Yoursafe](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Yoursafe](iDEAL%20bank%20issuers/PNG/YourSafe.png)  | ![Yoursafe](iDEAL%20bank%20issuers/SVG/YourSafe.svg) | 
 
 # Alternative logos iDEAL issuers
 | Method  | .PNG | .SVG | .PNG blank | .SVG blank |
@@ -86,6 +87,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [SNS Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![SNS Bank](iDEAL%20bank%20issuers/PNG%20Alternative/SNS.png)  | ![SNS Bank](iDEAL%20bank%20issuers/SVG%20Alternative/SNS.svg) |  ![SNS Bank](iDEAL%20bank%20issuers/PNG%20Alternative/SNS_blank.png)  | ![SNS Bank](iDEAL%20bank%20issuers/SVG%20Alternative/SNS_blank.svg) |
 | [Triodos Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG%20Alternative/Triodos.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG%20Alternative/Triodos.svg) |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG%20Alternative/Triodos_blank.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG%20Alternative/Triodos_blank.svg) |
 | [Van Lanschot](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Van Lanschot](iDEAL%20bank%20issuers/PNG%20Alternative/vanLanschot.png)  | ![Van Lanschot](iDEAL%20bank%20issuers/SVG%20Alternative/vanLanschot.svg) |  ![Van Lanschot](iDEAL%20bank%20issuers/PNG%20Alternative/vanLanschot_blank.png)  | ![Van Lanschot](iDEAL%20bank%20issuers/SVG%20Alternative/vanLanschot_blank.svg) |
+| [Yoursafe](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Yoursafe](iDEAL%20bank%20issuers/PNG/YourSafe.png) | N/A | N/A | N/A |
 
 # Logos identification methods
 | Method  | .PNG | .SVG |
