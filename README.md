@@ -116,7 +116,8 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [VVV Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![VVV Cadeaukaart](Giftcards/PNG/VVVgiftcard.png)  | ![VVV Cadeaukaart](Giftcards/SVG/VVVgiftcard.svg) |
 | [Webshop Giftcard](https://docs.buckaroo.io/docs/giftcards)  |  ![Webshop Giftcard](Giftcards/PNG/WebshopGiftcard.png)  | ![Webshop Giftcard](Giftcards/SVG/WebshopGiftcard.svg) |
 | [YourGift Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![YourGift Cadeaukaart](Giftcards/PNG/YourGift.png)  | ![YourGift Cadeaukaart](Giftcards/SVG/YourGift.svg) |
-* Please note that only some of the (standard) giftcard brands are listed here. For other brands the logo's are obtained directly from the issuer or from the Buckaroo Plaza (Custom Giftcards Subscription).
+* Please note that only some of the (standard) giftcard brands are listed here.
+For other brands the logo's are obtained directly from the issuer or from the Buckaroo Plaza (Custom Giftcards Subscription).
 
 # Logos identification methods
 | Method  | .PNG | .SVG |
