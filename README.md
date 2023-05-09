@@ -4,6 +4,17 @@
 
 # Buckaroo Media
 
+### Index
+- [About](#about)
+- [Additional information](#additional-information)
+- [Logos payment methods](#logos-payment-methods)
+- [Logos creditcard issuers](#logos-creditcard-issuers)
+- [Logos iDEAL issuers](#logos-ideal-issuers)
+- [Logos (alternative) iDEAL issuers](#logos-alternative-ideal-issuers)
+- [Logos giftcard brands](#logos-giftcard-brands)
+- [Logos identification methods](#logos-identification-methods)
+---
+
 ### About
 The Buckaroo Media repository is used to keep the various logos of payment methods up-to-date as well as the Buckaroo logos. All images are free to use for Buckaroo merchants and partners.
 
@@ -74,7 +85,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Van Lanschot](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG/vanLanschot.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG/vanLanschot.svg) | 
 | [Yoursafe](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Yoursafe](iDEAL%20bank%20issuers/PNG/YourSafe.png)  | ![Yoursafe](iDEAL%20bank%20issuers/SVG/YourSafe.svg) | 
 
-# Alternative logos iDEAL issuers
+# Logos (alternative) iDEAL issuers
 | Method  | .PNG | .SVG | .PNG blank | .SVG blank |
 | ------------- | ------------- | ------------ | ------------- | ------------ |
 | [ABN AMRO](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ABN AMRO](iDEAL%20bank%20issuers/PNG%20Alternative/ABNAMRO.png)  | ![ABN AMRO](iDEAL%20bank%20issuers/SVG%20Alternative/ABNAMRO.svg) |  ![ABN AMRO](iDEAL%20bank%20issuers/PNG%20Alternative/ABNAMRO_blank.png)  | ![ABN AMRO](iDEAL%20bank%20issuers/SVG%20Alternative/ABNAMRO_blank.svg) |
@@ -89,6 +100,24 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Triodos Bank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG%20Alternative/Triodos.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG%20Alternative/Triodos.svg) |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG%20Alternative/Triodos_blank.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG%20Alternative/Triodos_blank.svg) |
 | [Van Lanschot](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Van Lanschot](iDEAL%20bank%20issuers/PNG%20Alternative/vanLanschot.png)  | ![Van Lanschot](iDEAL%20bank%20issuers/SVG%20Alternative/vanLanschot.svg) |  ![Van Lanschot](iDEAL%20bank%20issuers/PNG%20Alternative/vanLanschot_blank.png)  | ![Van Lanschot](iDEAL%20bank%20issuers/SVG%20Alternative/vanLanschot_blank.svg) |
 | [Yoursafe](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Yoursafe](iDEAL%20bank%20issuers/PNG%20Alternative/YourSafe.png)  |  ![Yoursafe](iDEAL%20bank%20issuers/SVG%20Alternative/YourSafe.svg)  |  ![Yoursafe](iDEAL%20bank%20issuers/PNG%20Alternative/YourSafe_blank.png)  | ![Yoursafe](iDEAL%20bank%20issuers/SVG%20Alternative/YourSafe.svg) |
+
+# Logos giftcard brands
+| Method  | .PNG | .SVG |
+| ------------- | ------------- | ------------ |
+| [Ajax Giftcard](https://docs.buckaroo.io/docs/giftcards)  |  ![Ajax Giftcard](Giftcards/PNG/AjaxGiftcard.png)  | ![Ajax Giftcard](Giftcards/SVG/AjaxGiftcard.svg) |
+| [Boekenbon](https://docs.buckaroo.io/docs/giftcards)  |  ![Boekenbon](Giftcards/PNG/Boekenbon.png)  | ![Boekenbon](Giftcards/SVG/Boekenbon.svg) |
+| [CJP](https://docs.buckaroo.io/docs/giftcards)  |  ![CJP](Giftcards/PNG/CJP.png)  | ![CJP](Giftcards/SVG/CJP.svg) |
+| [Fashion Cheque](https://docs.buckaroo.io/docs/giftcards)  |  ![Fashion Cheque](Giftcards/PNG/FashionCheque.png)  | ![Fashion Cheque](Giftcards/SVG/FashionCheque.svg) |
+| [Fashion Giftcard](https://docs.buckaroo.io/docs/giftcards)  |  ![Fashion Giftcard](Giftcards/PNG/FashionGiftcard.png)  | ![Fashion Giftcard](Giftcards/SVG/FashionGiftcard.svg) |
+| [Nationale Bioscoopbon](https://docs.buckaroo.io/docs/giftcards)  |  ![Nationale Bioscoopbon](Giftcards/PNG/NationaleBioscoopBon.png)  | ![Nationale Bioscoopbon](Giftcards/SVG/NationaleBioscoopBon.svg) |
+| [Nationale Entertainment Card](https://docs.buckaroo.io/docs/giftcards)  |  ![Nationale Entertainment Card](Giftcards/PNG/NationaleEntertainmentCard.png)  | ![Nationale Entertainment Card](Giftcards/SVG/NationaleEntertainmentCard.svg) |
+| [Podium Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![Podium Cadeaukaart](Giftcards/PNG/PodiumCadeaukaart.png)  | ![Podium Cadeaukaart](Giftcards/SVG/PodiumCadeaukaart.svg) |
+| [SPORT&FIT Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![SPORT&FIT Cadeaukaart](Giftcards/PNG/SportFitCadeau.png)  | ![SPORT&FIT Cadeaukaart](Giftcards/SVG/Sport%26FitCadeau.svg) |
+| [VVV Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![VVV Cadeaukaart](Giftcards/PNG/VVVgiftcard.png)  | ![VVV Cadeaukaart](Giftcards/SVG/VVVgiftcard.svg) |
+| [Webshop Giftcard](https://docs.buckaroo.io/docs/giftcards)  |  ![Webshop Giftcard](Giftcards/PNG/WebshopGiftcard.png)  | ![Webshop Giftcard](Giftcards/SVG/WebshopGiftcard.svg) |
+| [YourGift Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![YourGift Cadeaukaart](Giftcards/PNG/YourGift.png)  | ![YourGift Cadeaukaart](Giftcards/SVG/YourGift.svg) |
+* Please note that only some of the (standard) giftcard brands are listed here.
+For other brands the logo's are obtained directly from the issuer or from the Buckaroo Plaza (Custom Giftcards Subscription).
 
 # Logos identification methods
 | Method  | .PNG | .SVG |
