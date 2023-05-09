@@ -4,6 +4,17 @@
 
 # Buckaroo Media
 
+### Index
+- [About](#about)
+- [Additional information](#additional-information)
+- [Logos payment methods](#logos-payment-methods)
+- [Logos creditcard issuers](#logos-creditcard-issuers)
+- [Logos iDEAL issuers](#logos-ideal-issuers)
+- [Logos (alternative) iDEAL issuers](#logos-alternative-ideal-issuers)
+- [Logos giftcard brands](#logos-giftcard-brands)
+- [Logos identification methods](#logos-identification-methods)
+---
+
 ### About
 The Buckaroo Media repository is used to keep the various logos of payment methods up-to-date as well as the Buckaroo logos. All images are free to use for Buckaroo merchants and partners.
 
@@ -74,7 +85,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Van Lanschot](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Triodos Bank](iDEAL%20bank%20issuers/PNG/vanLanschot.png)  | ![Triodos Bank](iDEAL%20bank%20issuers/SVG/vanLanschot.svg) | 
 | [Yoursafe](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Yoursafe](iDEAL%20bank%20issuers/PNG/YourSafe.png)  | ![Yoursafe](iDEAL%20bank%20issuers/SVG/YourSafe.svg) | 
 
-# Alternative logos iDEAL issuers
+# Logos (alternative) iDEAL issuers
 | Method  | .PNG | .SVG | .PNG blank | .SVG blank |
 | ------------- | ------------- | ------------ | ------------- | ------------ |
 | [ABN AMRO](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ABN AMRO](iDEAL%20bank%20issuers/PNG%20Alternative/ABNAMRO.png)  | ![ABN AMRO](iDEAL%20bank%20issuers/SVG%20Alternative/ABNAMRO.svg) |  ![ABN AMRO](iDEAL%20bank%20issuers/PNG%20Alternative/ABNAMRO_blank.png)  | ![ABN AMRO](iDEAL%20bank%20issuers/SVG%20Alternative/ABNAMRO_blank.svg) |
@@ -105,7 +116,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [VVV Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![VVV Cadeaukaart](Giftcards/PNG/VVVgiftcard.png)  | ![VVV Cadeaukaart](Giftcards/SVG/VVVGiftcard.svg) |
 | [Webshop Giftcard](https://docs.buckaroo.io/docs/giftcards)  |  ![Webshop Giftcard](Giftcards/PNG/WebshopGiftcard.png)  | ![Webshop Giftcard](Giftcards/SVG/WebshopGiftcard.svg) |
 | [YourGift Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![YourGift Cadeaukaart](Giftcards/PNG/YourGift.png)  | ![YourGift Cadeaukaart](Giftcards/SVG/YourGift.svg) |
-* Please note that only some of the (standard) giftcard brands are listed here. For other brands the logo's are obtained directly from the issuer or from the Buckaroo Plaza (custom giftcards).
+* Please note that only some of the (standard) giftcard brands are listed here. For other brands the logo's are obtained directly from the issuer or from the Buckaroo Plaza (Custom Giftcards Subscription).
 
 # Logos identification methods
 | Method  | .PNG | .SVG |
