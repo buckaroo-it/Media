@@ -115,6 +115,8 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Podium Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![Podium Cadeaukaart](Giftcards/PNG/PodiumCadeaukaart.png)  | ![Podium Cadeaukaart](Giftcards/SVG/PodiumCadeaukaart.svg) |
 | [SPORT&FIT Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![SPORT&FIT Cadeaukaart](Giftcards/PNG/SportFitCadeau.png)  | ![SPORT&FIT Cadeaukaart](Giftcards/SVG/Sport%26FitCadeau.svg) |
 | [VVV Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![VVV Cadeaukaart](Giftcards/PNG/VVVgiftcard.png)  | ![VVV Cadeaukaart](Giftcards/SVG/VVVgiftcard.svg) |
+| [VVV Lekker & Weg Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![VVV Lekker & Weg](Giftcards/PNG/VVVlekkerweg.png)  | ![VVV Lekker & Weg](Giftcards/SVG/VVVlekkerweg.svg) |
+| [VVV Shop & Chill Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![VVV Cadeaukaart](Giftcards/PNG/VVVshopchill.png)  | ![VVV Cadeaukaart](Giftcards/SVG/VVVshopchill.svg) |
 | [Webshop Giftcard](https://docs.buckaroo.io/docs/giftcards)  |  ![Webshop Giftcard](Giftcards/PNG/WebshopGiftcard.png)  | ![Webshop Giftcard](Giftcards/SVG/WebshopGiftcard.svg) |
 | [YourGift Cadeaukaart](https://docs.buckaroo.io/docs/giftcards)  |  ![YourGift Cadeaukaart](Giftcards/PNG/YourGift.png)  | ![YourGift Cadeaukaart](Giftcards/SVG/YourGift.svg) |
 * Please note that only some of the (standard) giftcard brands are listed here.
