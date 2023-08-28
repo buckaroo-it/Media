@@ -43,9 +43,9 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [In3](https://www.buckaroo.eu/solutions/payment-methods/in3)  |  ![In3](Payment%20methods/PNG/In3.png) | ![In3](Payment%20methods/SVG/In3.svg) |
 | [KBC](https://www.buckaroo.eu/solutions/payment-methods/kbc)  |  ![KBC](Payment%20methods/PNG/KBC.png) | ![KBC](Payment%20methods/SVG/KBC.svg) |
 | [Klarna](https://www.buckaroo.eu/solutions/payment-methods/klarna)  |  ![Klarna](Payment%20methods/PNG/Klarna.png) | ![Klarna](Payment%20methods/SVG/Klarna.svg) |
+| [Payconiq](https://www.buckaroo.eu/solutions/payment-methods/payconiq)  |  ![Payconiq](Payment%20methods/PNG/Payconic.png) | ![Payconiq](Payment%20methods/SVG/Payconiq.svg) |
 | [PayPal](https://www.buckaroo.eu/solutions/payment-methods/paypal)  |  ![PayPal](Payment%20methods/PNG/PayPal.png) | ![PayPal](Payment%20methods/SVG/PayPal.svg) |
 | [PayPerEmail](https://www.buckaroo.eu/solutions/payperemail)  |  ![PayPerEmail](Payment%20methods/PNG/PayPerEmail.png) | ![PayPerEmail](Payment%20methods/SVG/PayPerEmail.svg) |
-| [Payconiq](https://www.buckaroo.eu/solutions/payment-methods/payconiq)  |  ![Payconiq](Payment%20methods/PNG/Payconic.png) | ![Payconiq](Payment%20methods/SVG/Payconiq.svg) |
 | [POS (Point Of Sale)](https://www.buckaroo.nl/oplossingen/sepay-by-buckaroo)  |  ![Point Of Sale](Payment%20methods/PNG/POS.png) | ![Point Of Sale](Payment%20methods/SVG/POS.svg) |
 | [Przelewy24](https://www.buckaroo.eu/solutions/payment-methods/przelewy24)  |  ![Przelewy24](Payment%20methods/PNG/Przelewy24.png) | ![Przelewy24](Payment%20methods/SVG/Przelewy24.svg) |
 | [SEPA Credit Transfer](https://www.buckaroo.eu/solutions/payment-methods/sepa-credit-transfer)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-credittransfer.svg) |
