@@ -46,6 +46,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [PayPal](https://www.buckaroo.eu/solutions/payment-methods/paypal)  |  ![PayPal](Payment%20methods/PNG/PayPal.png) | ![PayPal](Payment%20methods/SVG/PayPal.svg) |
 | [PayPerEmail](https://www.buckaroo.eu/solutions/payperemail)  |  ![PayPerEmail](Payment%20methods/PNG/PayPerEmail.png) | ![PayPerEmail](Payment%20methods/SVG/PayPerEmail.svg) |
 | [Payconiq](https://www.buckaroo.eu/solutions/payment-methods/payconiq)  |  ![Payconiq](Payment%20methods/PNG/Payconic.png) | ![Payconiq](Payment%20methods/SVG/Payconiq.svg) |
+| [POS (Point Of Sale)](https://www.buckaroo.nl/oplossingen/sepay-by-buckaroo)  |  ![Point Of Sale](Payment%20methods/PNG/POS.png) | ![Point Of Sale](Payment%20methods/SVG/POS.svg) |
 | [Przelewy24](https://www.buckaroo.eu/solutions/payment-methods/przelewy24)  |  ![Przelewy24](Payment%20methods/PNG/Przelewy24.png) | ![Przelewy24](Payment%20methods/SVG/Przelewy24.svg) |
 | [SEPA Credit Transfer](https://www.buckaroo.eu/solutions/payment-methods/sepa-credit-transfer)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-credittransfer.svg) |
 | [SEPA Direct Debit](https://www.buckaroo.eu/solutions/payment-methods/sepa-direct-debit)  |  ![SEPA Direct Debit](Payment%20methods/PNG/SEPA-directdebit.png) | ![SEPA Direct Debit](Payment%20methods/SVG/SEPA-directdebit.svg) |
