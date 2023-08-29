@@ -22,7 +22,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 
 ### Additional information
 - **Knowledge base & FAQ:** Available in [Dutch](https://support.buckaroo.nl/categorieen/plugins/magento-2) or [English](https://support.buckaroo.eu/categories/plugins/magento-2).
-- **Support:** https://support.buckaroo.eu/contact
+- **Support:** https://docs.buckaroo.io/docs/contact-us
 - **Contact:** [support@buckaroo.nl](mailto:support@buckaroo.nl) or [+31 (0)30 711 50 50](tel:+310307115050)
 
 # Logos payment methods
@@ -95,7 +95,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Bunq](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Bunq](iDEAL%20bank%20issuers/PNG%20Alternative/Bunq.png)  | ![Bunq](iDEAL%20bank%20issuers/SVG%20Alternative/Bunq.svg) |  ![Bunq](iDEAL%20bank%20issuers/PNG%20Alternative/Bunq_blank.png)  | ![Bunq](iDEAL%20bank%20issuers/SVG%20Alternative/Bunq_blank.svg) |
 | [ING](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![ING](iDEAL%20bank%20issuers/PNG%20Alternative/ING.png)  | ![ING](iDEAL%20bank%20issuers/SVG%20Alternative/ING.svg) |  ![ING](iDEAL%20bank%20issuers/PNG%20Alternative/ING_blank.png)  | ![ING](iDEAL%20bank%20issuers/SVG%20Alternative/ING_blank.svg) |
 | [KNAB](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![KNAB](iDEAL%20bank%20issuers/PNG%20Alternative/KNAB.png)  | ![KNAB](iDEAL%20bank%20issuers/SVG%20Alternative/KNAB.svg) |  ![KNAB](iDEAL%20bank%20issuers/PNG%20Alternative/KNAB_blank.png)  | ![KNAB](iDEAL%20bank%20issuers/SVG%20Alternative/KNAB_blank.svg) |
-| [N26](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![N26](iDEAL%20bank%20issuers/PNG%20Alternative/N26.png)  | ![N26](iDEAL%20bank%20issuers/SVG%20Alternative/N26.svg) |  N/A | ![N26](iDEAL%20bank%20issuers/SVG%20Alternative/N26_blank.svg) |
+| [N26](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![N26](iDEAL%20bank%20issuers/PNG%20Alternative/N26.png)  | ![N26](iDEAL%20bank%20issuers/SVG%20Alternative/N26.svg) |  ![N26](iDEAL%20bank%20issuers/PNG%20Alternative/N26_blank.png) | ![N26](iDEAL%20bank%20issuers/SVG%20Alternative/N26_blank.svg) |
 | [Rabobank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Rabobank](iDEAL%20bank%20issuers/PNG%20Alternative/Rabobank.png)  | ![Rabobank](iDEAL%20bank%20issuers/SVG%20Alternative/Rabobank.svg) |  ![Rabobank](iDEAL%20bank%20issuers/PNG%20Alternative/Rabobank_blank.png)  | ![Rabobank](iDEAL%20bank%20issuers/SVG%20Alternative/Rabobank_blank.svg) |
 | [Regiobank](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Rabobank](iDEAL%20bank%20issuers/PNG%20Alternative/Regiobank.png)  | ![Regiobank](iDEAL%20bank%20issuers/SVG%20Alternative/Regiobank.svg) |  ![Regiobank](iDEAL%20bank%20issuers/PNG%20Alternative/Regiobank_blank.png)  | ![Regiobank](iDEAL%20bank%20issuers/SVG%20Alternative/Regiobank_blank.svg) |
 | [Revolut](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![Revolut](iDEAL%20bank%20issuers/PNG%20Alternative/Revolut.png)  | ![Revolut](iDEAL%20bank%20issuers/SVG%20Alternative/Revolut.svg) |  ![Revolut](iDEAL%20bank%20issuers/PNG%20Alternative/Revolut_blank.png)  | ![Revolut](iDEAL%20bank%20issuers/SVG%20Alternative/Revolut_blank.svg) |
