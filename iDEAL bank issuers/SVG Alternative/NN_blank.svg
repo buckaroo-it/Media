@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#11585A;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#11585A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#F9F9FA;}
+	.st6{fill:none;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#C2D830;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#115041;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#FAB517;}
+	.st10{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29120;}
+	.st11{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29020;}
+	.st12{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18F20;}
+	.st13{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08F21;}
+	.st14{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08E21;}
+	.st15{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08D21;}
+	.st16{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08C21;}
+	.st17{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08A21;}
+	.st18{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8B22;}
+	.st19{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8922;}
+	.st20{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08821;}
+	.st21{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08822;}
+	.st22{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8722;}
+	.st23{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8522;}
+	.st24{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE8522;}
+	.st25{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE8422;}
+	.st26{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED8322;}
+	.st27{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED8223;}
+	.st28{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75B24;}
+	.st29{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75C25;}
+	.st30{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75D25;}
+	.st31{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75E24;}
+	.st32{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75D24;}
+	.st33{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E86024;}
+	.st34{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E86124;}
+	.st35{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E86224;}
+	.st36{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6424;}
+	.st37{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6524;}
+	.st38{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6624;}
+	.st39{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6724;}
+	.st40{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E96824;}
+	.st41{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB6824;}
+	.st42{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB6924;}
+	.st43{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC6A24;}
+	.st44{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E96A24;}
+	.st45{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#E96C24;}
+	.st46{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB6D24;}
+	.st47{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC6E23;}
+	.st48{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC6F23;}
+	.st49{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB7024;}
+	.st50{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB7124;}
+	.st51{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7224;}
+	.st52{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7323;}
+	.st53{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7423;}
+	.st54{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7523;}
+	.st55{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7623;}
+	.st56{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7723;}
+	.st57{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7923;}
+	.st58{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7823;}
+	.st59{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7A23;}
+	.st60{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7B23;}
+	.st61{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7C23;}
+	.st62{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7D23;}
+	.st63{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7D22;}
+	.st64{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7E22;}
+	.st65{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7F22;}
+	.st66{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8022;}
+	.st67{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8122;}
+	.st68{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8222;}
+	.st69{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08322;}
+	.st70{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08421;}
+	.st71{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08521;}
+	.st72{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8522;}
+	.st73{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08722;}
+	.st74{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08822;}
+	.st75{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08821;}
+	.st76{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18821;}
+	.st77{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18921;}
+	.st78{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18A21;}
+	.st79{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08C21;}
+	.st80{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08D21;}
+	.st81{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18E21;}
+	.st82{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18F20;}
+	.st83{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29020;}
+	.st84{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29120;}
+	.st85{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29220;}
+	.st86{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F39320;}
+	.st87{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3941F;}
+	.st88{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3951F;}
+	.st89{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3971F;}
+	.st90{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3981F;}
+	.st91{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F4991F;}
+	.st92{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49A1F;}
+	.st93{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49B1E;}
+	.st94{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49C1E;}
+	.st95{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49D1E;}
+	.st96{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F59E1D;}
+	.st97{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49F1E;}
+	.st98{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F59F1E;}
+	.st99{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A11D;}
+	.st100{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A31D;}
+	.st101{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6A21D;}
+	.st102{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A41D;}
+	.st103{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A61C;}
+	.st104{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6A81C;}
+	.st105{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F7A91B;}
+	.st106{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6A91C;}
+	.st107{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6AA1B;}
+	.st108{fill-rule:evenodd;clip-rule:evenodd;fill:#EE8522;}
+	.st109{filter:url(#Adobe_OpacityMaskFilter);}
+	.st110{fill:url(#SVGID_6_);}
+	.st111{mask:url(#SVGID_5_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB7224;}
+	.st112{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st113{fill:url(#SVGID_8_);}
+	.st114{mask:url(#SVGID_7_);fill-rule:evenodd;clip-rule:evenodd;fill:#E65725;}
+	.st115{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29120;}
+	.st116{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29020;}
+	.st117{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18F20;}
+	.st118{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08F21;}
+	.st119{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08E21;}
+	.st120{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08D21;}
+	.st121{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08C21;}
+	.st122{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08A21;}
+	.st123{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8B22;}
+	.st124{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8922;}
+	.st125{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08821;}
+	.st126{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08822;}
+	.st127{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8722;}
+	.st128{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8522;}
+	.st129{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE8522;}
+	.st130{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE8422;}
+	.st131{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED8322;}
+	.st132{clip-path:url(#SVGID_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED8223;}
+	.st133{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75B24;}
+	.st134{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75C25;}
+	.st135{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75D25;}
+	.st136{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75E24;}
+	.st137{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75D24;}
+	.st138{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E86024;}
+	.st139{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E86124;}
+	.st140{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E86224;}
+	.st141{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6424;}
+	.st142{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6524;}
+	.st143{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6624;}
+	.st144{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6724;}
+	.st145{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E96824;}
+	.st146{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB6824;}
+	.st147{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB6924;}
+	.st148{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC6A24;}
+	.st149{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E96A24;}
+	.st150{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E96C24;}
+	.st151{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB6D24;}
+	.st152{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC6E23;}
+	.st153{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC6F23;}
+	.st154{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB7024;}
+	.st155{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB7124;}
+	.st156{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7224;}
+	.st157{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7323;}
+	.st158{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7423;}
+	.st159{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7523;}
+	.st160{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7623;}
+	.st161{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7723;}
+	.st162{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7923;}
+	.st163{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7823;}
+	.st164{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7A23;}
+	.st165{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7B23;}
+	.st166{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7C23;}
+	.st167{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7D23;}
+	.st168{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7D22;}
+	.st169{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7E22;}
+	.st170{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7F22;}
+	.st171{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8022;}
+	.st172{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8122;}
+	.st173{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8222;}
+	.st174{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08322;}
+	.st175{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08421;}
+	.st176{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08521;}
+	.st177{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8522;}
+	.st178{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08722;}
+	.st179{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08822;}
+	.st180{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08821;}
+	.st181{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18821;}
+	.st182{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18921;}
+	.st183{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18A21;}
+	.st184{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08C21;}
+	.st185{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08D21;}
+	.st186{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18E21;}
+	.st187{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18F20;}
+	.st188{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29020;}
+	.st189{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29120;}
+	.st190{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29220;}
+	.st191{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F39320;}
+	.st192{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3941F;}
+	.st193{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3951F;}
+	.st194{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3971F;}
+	.st195{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3981F;}
+	.st196{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F4991F;}
+	.st197{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49A1F;}
+	.st198{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49B1E;}
+	.st199{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49C1E;}
+	.st200{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49D1E;}
+	.st201{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F59E1D;}
+	.st202{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49F1E;}
+	.st203{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F59F1E;}
+	.st204{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A11D;}
+	.st205{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A31D;}
+	.st206{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6A21D;}
+	.st207{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A41D;}
+	.st208{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A61C;}
+	.st209{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6A81C;}
+	.st210{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F7A91B;}
+	.st211{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6A91C;}
+	.st212{clip-path:url(#SVGID_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6AA1B;}
+	.st213{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st214{fill:url(#SVGID_14_);}
+	.st215{mask:url(#SVGID_13_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB7224;}
+	.st216{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st217{fill:url(#SVGID_16_);}
+	.st218{mask:url(#SVGID_15_);fill-rule:evenodd;clip-rule:evenodd;fill:#E65725;}
+	.st219{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29120;}
+	.st220{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29020;}
+	.st221{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18F20;}
+	.st222{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08F21;}
+	.st223{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08E21;}
+	.st224{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08D21;}
+	.st225{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08C21;}
+	.st226{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08A21;}
+	.st227{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8B22;}
+	.st228{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8922;}
+	.st229{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08821;}
+	.st230{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08822;}
+	.st231{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8722;}
+	.st232{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8522;}
+	.st233{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE8522;}
+	.st234{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE8422;}
+	.st235{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED8322;}
+	.st236{clip-path:url(#SVGID_18_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED8223;}
+	.st237{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75B24;}
+	.st238{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75C25;}
+	.st239{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75D25;}
+	.st240{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75E24;}
+	.st241{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E75D24;}
+	.st242{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E86024;}
+	.st243{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E86124;}
+	.st244{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E86224;}
+	.st245{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6424;}
+	.st246{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6524;}
+	.st247{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6624;}
+	.st248{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EA6724;}
+	.st249{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E96824;}
+	.st250{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB6824;}
+	.st251{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB6924;}
+	.st252{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC6A24;}
+	.st253{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E96A24;}
+	.st254{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#E96C24;}
+	.st255{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB6D24;}
+	.st256{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC6E23;}
+	.st257{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC6F23;}
+	.st258{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB7024;}
+	.st259{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB7124;}
+	.st260{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7224;}
+	.st261{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7323;}
+	.st262{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7423;}
+	.st263{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7523;}
+	.st264{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7623;}
+	.st265{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7723;}
+	.st266{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EC7923;}
+	.st267{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7823;}
+	.st268{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7A23;}
+	.st269{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7B23;}
+	.st270{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7C23;}
+	.st271{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#ED7D23;}
+	.st272{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7D22;}
+	.st273{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7E22;}
+	.st274{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EE7F22;}
+	.st275{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8022;}
+	.st276{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8122;}
+	.st277{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8222;}
+	.st278{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08322;}
+	.st279{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08421;}
+	.st280{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08521;}
+	.st281{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#EF8522;}
+	.st282{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08722;}
+	.st283{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08822;}
+	.st284{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08821;}
+	.st285{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18821;}
+	.st286{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18921;}
+	.st287{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18A21;}
+	.st288{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08C21;}
+	.st289{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F08D21;}
+	.st290{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18E21;}
+	.st291{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F18F20;}
+	.st292{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29020;}
+	.st293{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29120;}
+	.st294{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F29220;}
+	.st295{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F39320;}
+	.st296{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3941F;}
+	.st297{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3951F;}
+	.st298{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3971F;}
+	.st299{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F3981F;}
+	.st300{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F4991F;}
+	.st301{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49A1F;}
+	.st302{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49B1E;}
+	.st303{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49C1E;}
+	.st304{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49D1E;}
+	.st305{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F59E1D;}
+	.st306{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F49F1E;}
+	.st307{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F59F1E;}
+	.st308{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A11D;}
+	.st309{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A31D;}
+	.st310{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6A21D;}
+	.st311{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A41D;}
+	.st312{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F5A61C;}
+	.st313{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6A81C;}
+	.st314{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F7A91B;}
+	.st315{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6A91C;}
+	.st316{clip-path:url(#SVGID_20_);fill-rule:evenodd;clip-rule:evenodd;fill:#F6AA1B;}
+	.st317{filter:url(#Adobe_OpacityMaskFilter_4_);}
+	.st318{fill:url(#SVGID_22_);}
+	.st319{mask:url(#SVGID_21_);fill-rule:evenodd;clip-rule:evenodd;fill:#EB7224;}
+	.st320{filter:url(#Adobe_OpacityMaskFilter_5_);}
+	.st321{fill:url(#SVGID_24_);}
+	.st322{mask:url(#SVGID_23_);fill-rule:evenodd;clip-rule:evenodd;fill:#E65725;}
+	.st323{fill:#B5CC38;}
+	.st324{fill:#D4DE25;}
+</style>
+<path class="st1" d="M20,1v18c0,0.55-0.45,1-1,1H1c-0.55,0-1-0.45-1-1V1c0-0.55,0.45-1,1-1h18C19.55,0,20,0.45,20,1z"/>
+<g>
+	<path class="st9" d="M5.97,6.69l-0.53,0c0.09,0.01,3.27,0,3.35,0c1.12,0,2.24,0,3.36,0c0.36,0,0.37,0.04,0.54,0.3l0.82,1.28
+		c0.15,0.25,0.08,0.39,0.02,0.69L13.29,10c-0.05,0.23-0.09,0.46-0.14,0.69c-0.02,0.11-0.14,0.63-0.14,0.7
+		c0.19-0.11,0.27-0.13,0.51-0.29c0.16-0.11,0.31-0.22,0.45-0.35c0.9-0.83,1.16-2.09,0.88-3.29L14.77,7.2c0-0.01,0-0.01,0-0.02
+		c0-0.03-0.01,0,0-0.02c-0.03-0.08-0.29-0.45-0.33-0.51c-0.11-0.15-0.35-0.45-0.48-0.58l-0.21-0.21c-0.84-0.76-1.74-1.26-3-1.48
+		c-0.01,0-0.27,0-0.32,0c-0.18,0-0.45,0.02-0.63,0.05C9.37,4.49,8.94,4.63,8.58,4.86c-0.45,0.3-0.75,0.66-0.77,1.23
+		C7.8,6.32,7.86,6.5,7.88,6.69L5.97,6.69z"/>
+	<g>
+		<defs>
+			<path id="SVGID_9_" d="M13.01,11.4c-0.02,0.12-0.3,1.53-0.34,1.59c-0.1,0.16-0.32,0.11-0.53,0.11c-0.17,0-1.19,0.01-1.27-0.01
+				c-0.17-0.05-0.23-0.19-0.32-0.32l-1.74-2.63l-0.54,2.61c-0.02,0.11-0.03,0.24-0.1,0.3c-0.09,0.08-0.19,0.06-0.34,0.06
+				c0,0.44,0.19,0.81,0.38,1.06c0.05,0.12,0.34,0.36,0.45,0.45c0.24,0.19,0.68,0.43,0.98,0.5c0.09,0.02,0.15,0.05,0.23,0.07
+				c0.09,0.02,0.16,0.03,0.25,0.05c0.09,0.02,0.18,0.02,0.26,0.04c0.06,0.01,0.47,0.02,0.56,0.02l0.22,0c0.05-0.01,0-0.01,0.05-0.01
+				c0.1,0,0.18-0.01,0.27-0.02c0.04,0,0.09-0.01,0.13-0.02c0,0,0.29,0.03,0.31,0.05c0.11-0.03,0.23-0.09,0.32-0.14
+				c0.41-0.19,0.78-0.44,1.13-0.71l0.48-0.44c0.15-0.15,0.31-0.32,0.43-0.49c0.36-0.47,0.62-0.9,0.84-1.46
+				c0.04-0.1,0.23-0.62,0.22-0.71c0,0,0-0.01,0-0.01s0,0,0-0.01c0.02-0.05-0.01,0.02,0.01-0.01c0-0.01,0.01-0.02,0.01-0.03
+				c0.24-1.07,0.19-2.24-0.2-3.27c-0.08-0.22-0.18-0.46-0.29-0.66c-0.04-0.07-0.07-0.15-0.12-0.21c-0.01,0.01,0-0.01,0,0.02
+				c0,0.01,0,0.01,0,0.02l0.08,0.28c0.28,1.2,0.02,2.46-0.88,3.29c-0.14,0.13-0.28,0.24-0.45,0.35
+				C13.28,11.27,13.2,11.29,13.01,11.4"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<polyline class="st10" points="7.84,7.15 7.85,7.15 7.85,15.3 7.84,15.3 		"/>
+		<polyline class="st10" points="7.84,7.15 7.88,7.15 7.88,15.3 7.84,15.3 		"/>
+		<polyline class="st10" points="7.87,7.15 7.91,7.15 7.91,15.3 7.87,15.3 		"/>
+		<polyline class="st10" points="7.9,7.15 7.94,7.15 7.94,15.3 7.9,15.3 		"/>
+		<polyline class="st10" points="7.93,7.15 7.97,7.15 7.97,15.3 7.93,15.3 		"/>
+		<polyline class="st10" points="7.96,7.15 8,7.15 8,15.3 7.96,15.3 		"/>
+		<polyline class="st11" points="7.99,7.15 8.03,7.15 8.03,15.3 7.99,15.3 		"/>
+		<polyline class="st11" points="8.02,7.15 8.06,7.15 8.06,15.3 8.02,15.3 		"/>
+		<polyline class="st11" points="8.05,7.15 8.09,7.15 8.09,15.3 8.05,15.3 		"/>
+		<polyline class="st11" points="8.08,7.15 8.12,7.15 8.12,15.3 8.08,15.3 		"/>
+		<polyline class="st11" points="8.11,7.15 8.15,7.15 8.15,15.3 8.11,15.3 		"/>
+		<polyline class="st11" points="8.14,7.15 8.18,7.15 8.18,15.3 8.14,15.3 		"/>
+		<polyline class="st11" points="8.17,7.15 8.21,7.15 8.21,15.3 8.17,15.3 		"/>
+		<polyline class="st11" points="8.2,7.15 8.24,7.15 8.24,15.3 8.2,15.3 		"/>
+		<polyline class="st11" points="8.23,7.15 8.27,7.15 8.27,15.3 8.23,15.3 		"/>
+		<polyline class="st11" points="8.26,7.15 8.3,7.15 8.3,15.3 8.26,15.3 		"/>
+		<polyline class="st11" points="8.29,7.15 8.33,7.15 8.33,15.3 8.29,15.3 		"/>
+		<polyline class="st12" points="8.32,7.15 8.36,7.15 8.36,15.3 8.32,15.3 		"/>
+		<polyline class="st12" points="8.35,7.15 8.39,7.15 8.39,15.3 8.35,15.3 		"/>
+		<polyline class="st12" points="8.38,7.15 8.42,7.15 8.42,15.3 8.38,15.3 		"/>
+		<polyline class="st12" points="8.41,7.15 8.45,7.15 8.45,15.3 8.41,15.3 		"/>
+		<polyline class="st12" points="8.44,7.15 8.48,7.15 8.48,15.3 8.44,15.3 		"/>
+		<polyline class="st13" points="8.47,7.15 8.51,7.15 8.51,15.3 8.47,15.3 		"/>
+		<polyline class="st13" points="8.5,7.15 8.54,7.15 8.54,15.3 8.5,15.3 		"/>
+		<polyline class="st13" points="8.53,7.15 8.57,7.15 8.57,15.3 8.53,15.3 		"/>
+		<polyline class="st13" points="8.56,7.15 8.6,7.15 8.6,15.3 8.56,15.3 		"/>
+		<polyline class="st13" points="8.59,7.15 8.63,7.15 8.63,15.3 8.59,15.3 		"/>
+		<polyline class="st13" points="8.62,7.15 8.66,7.15 8.66,15.3 8.62,15.3 		"/>
+		<polyline class="st13" points="8.65,7.15 8.69,7.15 8.69,15.3 8.65,15.3 		"/>
+		<polyline class="st14" points="8.68,7.15 8.72,7.15 8.72,15.3 8.68,15.3 		"/>
+		<polyline class="st14" points="8.71,7.15 8.75,7.15 8.75,15.3 8.71,15.3 		"/>
+		<polyline class="st14" points="8.74,7.15 8.78,7.15 8.78,15.3 8.74,15.3 		"/>
+		<polyline class="st14" points="8.77,7.15 8.81,7.15 8.81,15.3 8.77,15.3 		"/>
+		<polyline class="st14" points="8.8,7.15 8.84,7.15 8.84,15.3 8.8,15.3 		"/>
+		<polyline class="st14" points="8.83,7.15 8.87,7.15 8.87,15.3 8.83,15.3 		"/>
+		<polyline class="st14" points="8.86,7.15 8.9,7.15 8.9,15.3 8.86,15.3 		"/>
+		<polyline class="st14" points="8.89,7.15 8.93,7.15 8.93,15.3 8.89,15.3 		"/>
+		<polyline class="st14" points="8.92,7.15 8.96,7.15 8.96,15.3 8.92,15.3 		"/>
+		<polyline class="st14" points="8.95,7.15 8.99,7.15 8.99,15.3 8.95,15.3 		"/>
+		<polyline class="st14" points="8.98,7.15 9.02,7.15 9.02,15.3 8.98,15.3 		"/>
+		<polyline class="st15" points="9.01,7.15 9.05,7.15 9.05,15.3 9.01,15.3 		"/>
+		<polyline class="st15" points="9.04,7.15 9.08,7.15 9.08,15.3 9.04,15.3 		"/>
+		<polyline class="st15" points="9.07,7.15 9.11,7.15 9.11,15.3 9.07,15.3 		"/>
+		<polyline class="st15" points="9.1,7.15 9.14,7.15 9.14,15.3 9.1,15.3 		"/>
+		<polyline class="st15" points="9.13,7.15 9.17,7.15 9.17,15.3 9.13,15.3 		"/>
+		<polyline class="st15" points="9.16,7.15 9.2,7.15 9.2,15.3 9.16,15.3 		"/>
+		<polyline class="st15" points="9.19,7.15 9.23,7.15 9.23,15.3 9.19,15.3 		"/>
+		<polyline class="st15" points="9.22,7.15 9.26,7.15 9.26,15.3 9.22,15.3 		"/>
+		<polyline class="st15" points="9.25,7.15 9.29,7.15 9.29,15.3 9.25,15.3 		"/>
+		<polyline class="st15" points="9.28,7.15 9.32,7.15 9.32,15.3 9.28,15.3 		"/>
+		<polyline class="st15" points="9.31,7.15 9.35,7.15 9.35,15.3 9.31,15.3 		"/>
+		<polyline class="st16" points="9.34,7.15 9.38,7.15 9.38,15.3 9.34,15.3 		"/>
+		<polyline class="st16" points="9.37,7.15 9.41,7.15 9.41,15.3 9.37,15.3 		"/>
+		<polyline class="st16" points="9.4,7.15 9.44,7.15 9.44,15.3 9.4,15.3 		"/>
+		<polyline class="st16" points="9.43,7.15 9.47,7.15 9.47,15.3 9.43,15.3 		"/>
+		<polyline class="st16" points="9.46,7.15 9.5,7.15 9.5,15.3 9.46,15.3 		"/>
+		<polyline class="st16" points="9.49,7.15 9.53,7.15 9.53,15.3 9.49,15.3 		"/>
+		<polyline class="st16" points="9.52,7.15 9.56,7.15 9.56,15.3 9.52,15.3 		"/>
+		<polyline class="st16" points="9.55,7.15 9.59,7.15 9.59,15.3 9.55,15.3 		"/>
+		<polyline class="st16" points="9.58,7.15 9.62,7.15 9.62,15.3 9.58,15.3 		"/>
+		<polyline class="st16" points="9.61,7.15 9.65,7.15 9.65,15.3 9.61,15.3 		"/>
+		<polyline class="st16" points="9.64,7.15 9.68,7.15 9.68,15.3 9.64,15.3 		"/>
+		<polyline class="st17" points="9.67,7.15 9.71,7.15 9.71,15.3 9.67,15.3 		"/>
+		<polyline class="st17" points="9.7,7.15 9.74,7.15 9.74,15.3 9.7,15.3 		"/>
+		<polyline class="st18" points="9.73,7.15 9.77,7.15 9.77,15.3 9.73,15.3 		"/>
+		<polyline class="st18" points="9.76,7.15 9.8,7.15 9.8,15.3 9.76,15.3 		"/>
+		<polyline class="st18" points="9.79,7.15 9.83,7.15 9.83,15.3 9.79,15.3 		"/>
+		<polyline class="st18" points="9.82,7.15 9.86,7.15 9.86,15.3 9.82,15.3 		"/>
+		<polyline class="st18" points="9.85,7.15 9.89,7.15 9.89,15.3 9.85,15.3 		"/>
+		<polyline class="st18" points="9.88,7.15 9.92,7.15 9.92,15.3 9.88,15.3 		"/>
+		<polyline class="st18" points="9.91,7.15 9.95,7.15 9.95,15.3 9.91,15.3 		"/>
+		<polyline class="st18" points="9.94,7.15 9.98,7.15 9.98,15.3 9.94,15.3 		"/>
+		<polyline class="st18" points="9.97,7.15 10.01,7.15 10.01,15.3 9.97,15.3 		"/>
+		<polyline class="st19" points="10,7.15 10.05,7.15 10.05,15.3 10,15.3 		"/>
+		<polyline class="st19" points="10.03,7.15 10.08,7.15 10.08,15.3 10.03,15.3 		"/>
+		<polyline class="st19" points="10.06,7.15 10.11,7.15 10.11,15.3 10.06,15.3 		"/>
+		<polyline class="st19" points="10.09,7.15 10.14,7.15 10.14,15.3 10.09,15.3 		"/>
+		<polyline class="st19" points="10.12,7.15 10.17,7.15 10.17,15.3 10.12,15.3 		"/>
+		<polyline class="st19" points="10.15,7.15 10.2,7.15 10.2,15.3 10.15,15.3 		"/>
+		<polyline class="st19" points="10.18,7.15 10.23,7.15 10.23,15.3 10.18,15.3 		"/>
+		<polyline class="st19" points="10.21,7.15 10.26,7.15 10.26,15.3 10.21,15.3 		"/>
+		<polyline class="st19" points="10.24,7.15 10.29,7.15 10.29,15.3 10.24,15.3 		"/>
+		<polyline class="st19" points="10.27,7.15 10.32,7.15 10.32,15.3 10.27,15.3 		"/>
+		<polyline class="st19" points="10.3,7.15 10.35,7.15 10.35,15.3 10.3,15.3 		"/>
+		<polyline class="st19" points="10.33,7.15 10.38,7.15 10.38,15.3 10.33,15.3 		"/>
+		<polyline class="st20" points="10.36,7.15 10.41,7.15 10.41,15.3 10.36,15.3 		"/>
+		<polyline class="st20" points="10.39,7.15 10.44,7.15 10.44,15.3 10.39,15.3 		"/>
+		<polyline class="st20" points="10.42,7.15 10.47,7.15 10.47,15.3 10.42,15.3 		"/>
+		<polyline class="st20" points="10.45,7.15 10.5,7.15 10.5,15.3 10.45,15.3 		"/>
+		<polyline class="st20" points="10.48,7.15 10.53,7.15 10.53,15.3 10.48,15.3 		"/>
+		<polyline class="st20" points="10.51,7.15 10.56,7.15 10.56,15.3 10.51,15.3 		"/>
+		<polyline class="st20" points="10.54,7.15 10.59,7.15 10.59,15.3 10.54,15.3 		"/>
+		<polyline class="st20" points="10.57,7.15 10.62,7.15 10.62,15.3 10.57,15.3 		"/>
+		<polyline class="st20" points="10.6,7.15 10.65,7.15 10.65,15.3 10.6,15.3 		"/>
+		<polyline class="st20" points="10.63,7.15 10.68,7.15 10.68,15.3 10.63,15.3 		"/>
+		<polyline class="st20" points="10.66,7.15 10.71,7.15 10.71,15.3 10.66,15.3 		"/>
+		<polyline class="st20" points="10.69,7.15 10.74,7.15 10.74,15.3 10.69,15.3 		"/>
+		<polyline class="st20" points="10.72,7.15 10.77,7.15 10.77,15.3 10.72,15.3 		"/>
+		<polyline class="st20" points="10.75,7.15 10.8,7.15 10.8,15.3 10.75,15.3 		"/>
+		<polyline class="st20" points="10.78,7.15 10.83,7.15 10.83,15.3 10.78,15.3 		"/>
+		<polyline class="st20" points="10.81,7.15 10.86,7.15 10.86,15.3 10.81,15.3 		"/>
+		<polyline class="st20" points="10.84,7.15 10.89,7.15 10.89,15.3 10.84,15.3 		"/>
+		<polyline class="st20" points="10.87,7.15 10.92,7.15 10.92,15.3 10.87,15.3 		"/>
+		<polyline class="st20" points="10.9,7.15 10.95,7.15 10.95,15.3 10.9,15.3 		"/>
+		<polyline class="st20" points="10.93,7.15 10.98,7.15 10.98,15.3 10.93,15.3 		"/>
+		<polyline class="st20" points="10.96,7.15 11.01,7.15 11.01,15.3 10.96,15.3 		"/>
+		<polyline class="st20" points="10.99,7.15 11.04,7.15 11.04,15.3 10.99,15.3 		"/>
+		<polyline class="st21" points="11.02,7.15 11.07,7.15 11.07,15.3 11.02,15.3 		"/>
+		<polyline class="st21" points="11.05,7.15 11.1,7.15 11.1,15.3 11.05,15.3 		"/>
+		<polyline class="st21" points="11.08,7.15 11.13,7.15 11.13,15.3 11.08,15.3 		"/>
+		<polyline class="st21" points="11.11,7.15 11.16,7.15 11.16,15.3 11.11,15.3 		"/>
+		<polyline class="st21" points="11.14,7.15 11.19,7.15 11.19,15.3 11.14,15.3 		"/>
+		<polyline class="st21" points="11.17,7.15 11.22,7.15 11.22,15.3 11.17,15.3 		"/>
+		<polyline class="st21" points="11.2,7.15 11.25,7.15 11.25,15.3 11.2,15.3 		"/>
+		<polyline class="st21" points="11.23,7.15 11.28,7.15 11.28,15.3 11.23,15.3 		"/>
+		<polyline class="st21" points="11.26,7.15 11.31,7.15 11.31,15.3 11.26,15.3 		"/>
+		<polyline class="st21" points="11.29,7.15 11.34,7.15 11.34,15.3 11.29,15.3 		"/>
+		<polyline class="st21" points="11.32,7.15 11.37,7.15 11.37,15.3 11.32,15.3 		"/>
+		<polyline class="st21" points="11.35,7.15 11.4,7.15 11.4,15.3 11.35,15.3 		"/>
+		<polyline class="st21" points="11.38,7.15 11.43,7.15 11.43,15.3 11.38,15.3 		"/>
+		<polyline class="st21" points="11.41,7.15 11.46,7.15 11.46,15.3 11.41,15.3 		"/>
+		<polyline class="st21" points="11.44,7.15 11.49,7.15 11.49,15.3 11.44,15.3 		"/>
+		<polyline class="st21" points="11.47,7.15 11.52,7.15 11.52,15.3 11.47,15.3 		"/>
+		<polyline class="st21" points="11.5,7.15 11.55,7.15 11.55,15.3 11.5,15.3 		"/>
+		<polyline class="st21" points="11.53,7.15 11.58,7.15 11.58,15.3 11.53,15.3 		"/>
+		<polyline class="st21" points="11.56,7.15 11.61,7.15 11.61,15.3 11.56,15.3 		"/>
+		<polyline class="st21" points="11.59,7.15 11.64,7.15 11.64,15.3 11.59,15.3 		"/>
+		<polyline class="st22" points="11.62,7.15 11.67,7.15 11.67,15.3 11.62,15.3 		"/>
+		<polyline class="st22" points="11.65,7.15 11.7,7.15 11.7,15.3 11.65,15.3 		"/>
+		<polyline class="st22" points="11.68,7.15 11.73,7.15 11.73,15.3 11.68,15.3 		"/>
+		<polyline class="st22" points="11.71,7.15 11.76,7.15 11.76,15.3 11.71,15.3 		"/>
+		<polyline class="st22" points="11.74,7.15 11.79,7.15 11.79,15.3 11.74,15.3 		"/>
+		<polyline class="st22" points="11.77,7.15 11.82,7.15 11.82,15.3 11.77,15.3 		"/>
+		<polyline class="st22" points="11.8,7.15 11.85,7.15 11.85,15.3 11.8,15.3 		"/>
+		<polyline class="st22" points="11.83,7.15 11.88,7.15 11.88,15.3 11.83,15.3 		"/>
+		<polyline class="st22" points="11.86,7.15 11.91,7.15 11.91,15.3 11.86,15.3 		"/>
+		<polyline class="st22" points="11.89,7.15 11.94,7.15 11.94,15.3 11.89,15.3 		"/>
+		<polyline class="st22" points="11.92,7.15 11.97,7.15 11.97,15.3 11.92,15.3 		"/>
+		<polyline class="st22" points="11.95,7.15 12,7.15 12,15.3 11.95,15.3 		"/>
+		<polyline class="st22" points="11.98,7.15 12.03,7.15 12.03,15.3 11.98,15.3 		"/>
+		<polyline class="st22" points="12.01,7.15 12.06,7.15 12.06,15.3 12.01,15.3 		"/>
+		<polyline class="st22" points="12.04,7.15 12.09,7.15 12.09,15.3 12.04,15.3 		"/>
+		<polyline class="st22" points="12.07,7.15 12.12,7.15 12.12,15.3 12.07,15.3 		"/>
+		<polyline class="st22" points="12.1,7.15 12.15,7.15 12.15,15.3 12.1,15.3 		"/>
+		<polyline class="st22" points="12.13,7.15 12.18,7.15 12.18,15.3 12.13,15.3 		"/>
+		<polyline class="st22" points="12.16,7.15 12.21,7.15 12.21,15.3 12.16,15.3 		"/>
+		<polyline class="st22" points="12.19,7.15 12.24,7.15 12.24,15.3 12.19,15.3 		"/>
+		<polyline class="st22" points="12.22,7.15 12.27,7.15 12.27,15.3 12.22,15.3 		"/>
+		<polyline class="st22" points="12.25,7.15 12.3,7.15 12.3,15.3 12.25,15.3 		"/>
+		<polyline class="st22" points="12.28,7.15 12.33,7.15 12.33,15.3 12.28,15.3 		"/>
+		<polyline class="st22" points="12.31,7.15 12.36,7.15 12.36,15.3 12.31,15.3 		"/>
+		<polyline class="st22" points="12.34,7.15 12.39,7.15 12.39,15.3 12.34,15.3 		"/>
+		<polyline class="st22" points="12.37,7.15 12.42,7.15 12.42,15.3 12.37,15.3 		"/>
+		<polyline class="st23" points="12.4,7.15 12.45,7.15 12.45,15.3 12.4,15.3 		"/>
+		<polyline class="st23" points="12.43,7.15 12.48,7.15 12.48,15.3 12.43,15.3 		"/>
+		<polyline class="st23" points="12.46,7.15 12.51,7.15 12.51,15.3 12.46,15.3 		"/>
+		<polyline class="st23" points="12.49,7.15 12.54,7.15 12.54,15.3 12.49,15.3 		"/>
+		<polyline class="st23" points="12.52,7.15 12.57,7.15 12.57,15.3 12.52,15.3 		"/>
+		<polyline class="st23" points="12.55,7.15 12.6,7.15 12.6,15.3 12.55,15.3 		"/>
+		<polyline class="st23" points="12.58,7.15 12.63,7.15 12.63,15.3 12.58,15.3 		"/>
+		<polyline class="st23" points="12.61,7.15 12.66,7.15 12.66,15.3 12.61,15.3 		"/>
+		<polyline class="st23" points="12.64,7.15 12.69,7.15 12.69,15.3 12.64,15.3 		"/>
+		<polyline class="st23" points="12.67,7.15 12.72,7.15 12.72,15.3 12.67,15.3 		"/>
+		<polyline class="st23" points="12.7,7.15 12.75,7.15 12.75,15.3 12.7,15.3 		"/>
+		<polyline class="st23" points="12.73,7.15 12.78,7.15 12.78,15.3 12.73,15.3 		"/>
+		<polyline class="st23" points="12.76,7.15 12.81,7.15 12.81,15.3 12.76,15.3 		"/>
+		<polyline class="st23" points="12.79,7.15 12.84,7.15 12.84,15.3 12.79,15.3 		"/>
+		<polyline class="st23" points="12.82,7.15 12.87,7.15 12.87,15.3 12.82,15.3 		"/>
+		<polyline class="st23" points="12.85,7.15 12.9,7.15 12.9,15.3 12.85,15.3 		"/>
+		<polyline class="st23" points="12.88,7.15 12.93,7.15 12.93,15.3 12.88,15.3 		"/>
+		<polyline class="st23" points="12.91,7.15 12.96,7.15 12.96,15.3 12.91,15.3 		"/>
+		<polyline class="st23" points="12.94,7.15 12.99,7.15 12.99,15.3 12.94,15.3 		"/>
+		<polyline class="st23" points="12.97,7.15 13.02,7.15 13.02,15.3 12.97,15.3 		"/>
+		<polyline class="st23" points="13,7.15 13.05,7.15 13.05,15.3 13,15.3 		"/>
+		<polyline class="st23" points="13.03,7.15 13.08,7.15 13.08,15.3 13.03,15.3 		"/>
+		<polyline class="st23" points="13.06,7.15 13.11,7.15 13.11,15.3 13.06,15.3 		"/>
+		<polyline class="st24" points="13.09,7.15 13.14,7.15 13.14,15.3 13.09,15.3 		"/>
+		<polyline class="st24" points="13.12,7.15 13.17,7.15 13.17,15.3 13.12,15.3 		"/>
+		<polyline class="st24" points="13.15,7.15 13.2,7.15 13.2,15.3 13.15,15.3 		"/>
+		<polyline class="st24" points="13.18,7.15 13.23,7.15 13.23,15.3 13.18,15.3 		"/>
+		<polyline class="st24" points="13.21,7.15 13.26,7.15 13.26,15.3 13.21,15.3 		"/>
+		<polyline class="st24" points="13.24,7.15 13.29,7.15 13.29,15.3 13.24,15.3 		"/>
+		<polyline class="st24" points="13.27,7.15 13.32,7.15 13.32,15.3 13.27,15.3 		"/>
+		<polyline class="st24" points="13.3,7.15 13.35,7.15 13.35,15.3 13.3,15.3 		"/>
+		<polyline class="st24" points="13.33,7.15 13.38,7.15 13.38,15.3 13.33,15.3 		"/>
+		<polyline class="st24" points="13.36,7.15 13.41,7.15 13.41,15.3 13.36,15.3 		"/>
+		<polyline class="st24" points="13.39,7.15 13.44,7.15 13.44,15.3 13.39,15.3 		"/>
+		<polyline class="st24" points="13.42,7.15 13.47,7.15 13.47,15.3 13.42,15.3 		"/>
+		<polyline class="st24" points="13.45,7.15 13.5,7.15 13.5,15.3 13.45,15.3 		"/>
+		<polyline class="st24" points="13.48,7.15 13.53,7.15 13.53,15.3 13.48,15.3 		"/>
+		<polyline class="st24" points="13.51,7.15 13.56,7.15 13.56,15.3 13.51,15.3 		"/>
+		<polyline class="st24" points="13.54,7.15 13.59,7.15 13.59,15.3 13.54,15.3 		"/>
+		<polyline class="st24" points="13.57,7.15 13.62,7.15 13.62,15.3 13.57,15.3 		"/>
+		<polyline class="st24" points="13.6,7.15 13.65,7.15 13.65,15.3 13.6,15.3 		"/>
+		<polyline class="st24" points="13.63,7.15 13.68,7.15 13.68,15.3 13.63,15.3 		"/>
+		<polyline class="st24" points="13.66,7.15 13.71,7.15 13.71,15.3 13.66,15.3 		"/>
+		<polyline class="st24" points="13.69,7.15 13.74,7.15 13.74,15.3 13.69,15.3 		"/>
+		<polyline class="st24" points="13.72,7.15 13.77,7.15 13.77,15.3 13.72,15.3 		"/>
+		<polyline class="st24" points="13.75,7.15 13.8,7.15 13.8,15.3 13.75,15.3 		"/>
+		<polyline class="st25" points="13.78,7.15 13.83,7.15 13.83,15.3 13.78,15.3 		"/>
+		<polyline class="st25" points="13.81,7.15 13.86,7.15 13.86,15.3 13.81,15.3 		"/>
+		<polyline class="st25" points="13.84,7.15 13.89,7.15 13.89,15.3 13.84,15.3 		"/>
+		<polyline class="st25" points="13.87,7.15 13.92,7.15 13.92,15.3 13.87,15.3 		"/>
+		<polyline class="st25" points="13.9,7.15 13.95,7.15 13.95,15.3 13.9,15.3 		"/>
+		<polyline class="st25" points="13.93,7.15 13.98,7.15 13.98,15.3 13.93,15.3 		"/>
+		<polyline class="st25" points="13.96,7.15 14.01,7.15 14.01,15.3 13.96,15.3 		"/>
+		<polyline class="st25" points="13.99,7.15 14.04,7.15 14.04,15.3 13.99,15.3 		"/>
+		<polyline class="st25" points="14.02,7.15 14.07,7.15 14.07,15.3 14.02,15.3 		"/>
+		<polyline class="st25" points="14.05,7.15 14.1,7.15 14.1,15.3 14.05,15.3 		"/>
+		<polyline class="st25" points="14.08,7.15 14.13,7.15 14.13,15.3 14.08,15.3 		"/>
+		<polyline class="st25" points="14.11,7.15 14.16,7.15 14.16,15.3 14.11,15.3 		"/>
+		<polyline class="st25" points="14.14,7.15 14.19,7.15 14.19,15.3 14.14,15.3 		"/>
+		<polyline class="st25" points="14.17,7.15 14.22,7.15 14.22,15.3 14.17,15.3 		"/>
+		<polyline class="st25" points="14.2,7.15 14.25,7.15 14.25,15.3 14.2,15.3 		"/>
+		<polyline class="st25" points="14.23,7.15 14.28,7.15 14.28,15.3 14.23,15.3 		"/>
+		<polyline class="st25" points="14.26,7.15 14.31,7.15 14.31,15.3 14.26,15.3 		"/>
+		<polyline class="st25" points="14.29,7.15 14.34,7.15 14.34,15.3 14.29,15.3 		"/>
+		<polyline class="st25" points="14.32,7.15 14.37,7.15 14.37,15.3 14.32,15.3 		"/>
+		<polyline class="st25" points="14.35,7.15 14.4,7.15 14.4,15.3 14.35,15.3 		"/>
+		<polyline class="st25" points="14.39,7.15 14.43,7.15 14.43,15.3 14.39,15.3 		"/>
+		<polyline class="st25" points="14.42,7.15 14.46,7.15 14.46,15.3 14.42,15.3 		"/>
+		<polyline class="st26" points="14.45,7.15 14.49,7.15 14.49,15.3 14.45,15.3 		"/>
+		<polyline class="st26" points="14.48,7.15 14.52,7.15 14.52,15.3 14.48,15.3 		"/>
+		<polyline class="st26" points="14.51,7.15 14.55,7.15 14.55,15.3 14.51,15.3 		"/>
+		<polyline class="st26" points="14.54,7.15 14.58,7.15 14.58,15.3 14.54,15.3 		"/>
+		<polyline class="st26" points="14.57,7.15 14.61,7.15 14.61,15.3 14.57,15.3 		"/>
+		<polyline class="st26" points="14.6,7.15 14.64,7.15 14.64,15.3 14.6,15.3 		"/>
+		<polyline class="st26" points="14.63,7.15 14.67,7.15 14.67,15.3 14.63,15.3 		"/>
+		<polyline class="st26" points="14.66,7.15 14.7,7.15 14.7,15.3 14.66,15.3 		"/>
+		<polyline class="st26" points="14.69,7.15 14.73,7.15 14.73,15.3 14.69,15.3 		"/>
+		<polyline class="st26" points="14.72,7.15 14.76,7.15 14.76,15.3 14.72,15.3 		"/>
+		<polyline class="st26" points="14.75,7.15 14.79,7.15 14.79,15.3 14.75,15.3 		"/>
+		<polyline class="st26" points="14.78,7.15 14.82,7.15 14.82,15.3 14.78,15.3 		"/>
+		<polyline class="st26" points="14.81,7.15 14.85,7.15 14.85,15.3 14.81,15.3 		"/>
+		<polyline class="st26" points="14.84,7.15 14.88,7.15 14.88,15.3 14.84,15.3 		"/>
+		<polyline class="st26" points="14.87,7.15 14.91,7.15 14.91,15.3 14.87,15.3 		"/>
+		<polyline class="st26" points="14.9,7.15 14.94,7.15 14.94,15.3 14.9,15.3 		"/>
+		<polyline class="st26" points="14.93,7.15 14.97,7.15 14.97,15.3 14.93,15.3 		"/>
+		<polyline class="st26" points="14.96,7.15 15,7.15 15,15.3 14.96,15.3 		"/>
+		<polyline class="st26" points="14.99,7.15 15.03,7.15 15.03,15.3 14.99,15.3 		"/>
+		<polyline class="st26" points="15.02,7.15 15.06,7.15 15.06,15.3 15.02,15.3 		"/>
+		<polyline class="st26" points="15.05,7.15 15.09,7.15 15.09,15.3 15.05,15.3 		"/>
+		<polyline class="st26" points="15.08,7.15 15.12,7.15 15.12,15.3 15.08,15.3 		"/>
+		<polyline class="st26" points="15.11,7.15 15.15,7.15 15.15,15.3 15.11,15.3 		"/>
+		<polyline class="st27" points="15.14,7.15 15.18,7.15 15.18,15.3 15.14,15.3 		"/>
+		<polyline class="st27" points="15.17,7.15 15.21,7.15 15.21,15.3 15.17,15.3 		"/>
+		<polyline class="st27" points="15.2,7.15 15.24,7.15 15.24,15.3 15.2,15.3 		"/>
+		<polyline class="st27" points="15.23,7.15 15.27,7.15 15.27,15.3 15.23,15.3 		"/>
+		<polyline class="st27" points="15.26,7.15 15.3,7.15 15.3,15.3 15.26,15.3 		"/>
+		<polyline class="st27" points="15.29,7.15 15.33,7.15 15.33,15.3 15.29,15.3 		"/>
+		<polyline class="st27" points="15.32,7.15 15.36,7.15 15.36,15.3 15.32,15.3 		"/>
+		<polyline class="st27" points="15.35,7.15 15.39,7.15 15.39,15.3 15.35,15.3 		"/>
+		<polyline class="st27" points="15.38,7.15 15.42,7.15 15.42,15.3 15.38,15.3 		"/>
+		<polyline class="st27" points="15.41,7.15 15.45,7.15 15.45,15.3 15.41,15.3 		"/>
+		<polyline class="st27" points="15.44,7.15 15.48,7.15 15.48,15.3 15.44,15.3 		"/>
+		<polyline class="st27" points="15.47,7.15 15.62,7.15 15.62,15.3 15.47,15.3 		"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_11_" d="M11.93,15.3c-0.05-0.05-0.25-0.06-0.31-0.05c-0.04,0.01-0.09,0.01-0.13,0.02
+				c-0.1,0.01-0.17,0.02-0.27,0.02c-0.05,0,0,0-0.05,0.01l-0.22,0c-0.09,0-0.5-0.01-0.56-0.02c-0.08-0.02-0.18-0.02-0.26-0.04
+				c-0.08-0.02-0.16-0.03-0.25-0.05c-0.08-0.02-0.15-0.04-0.23-0.07c-0.3-0.07-0.74-0.31-0.98-0.5c-0.11-0.09-0.39-0.33-0.45-0.45
+				c-0.2-0.25-0.38-0.63-0.38-1.06c-0.24,0-0.48,0-0.73,0c-0.1,0-0.25,0.02-0.32-0.04C6.72,13,6.76,12.87,6.78,12.77
+				c0.08-0.41,0.16-0.81,0.25-1.21c0.08-0.4,0.16-0.81,0.25-1.21c0.04-0.2,0.08-0.41,0.12-0.61c0.04-0.2,0.09-0.41,0.12-0.61
+				c-0.19,0-0.37,0-0.56,0c-0.2,0-0.23,0.17-0.25,0.29C6.7,9.5,6.3,11.82,6.28,11.87c-0.03-0.02,0.11-1.7,0.1-1.71L6.09,9.82
+				C6.06,9.78,6.05,9.78,6.04,9.76L5.95,9.64C5.92,9.62,5.93,9.63,5.91,9.6L5.64,9.28C5.62,9.25,5.62,9.27,5.6,9.24L5.54,9.16
+				C5.51,9.14,5.53,9.14,5.48,9.1C5.45,9.06,5.45,9.07,5.45,9.03C5.44,9.04,5.43,9.03,5.41,9.02c0-0.06,0.03-0.08-0.02-0.12
+				C5.34,8.85,5.37,8.9,5.37,8.8c0-0.05-0.04-0.02-0.03-0.1C5.35,8.66,5.34,8.62,5.3,8.63C5.27,8.64,5.25,8.66,5.23,8.68
+				C5.2,8.7,5.18,8.72,5.16,8.73C5.12,8.78,5.07,8.82,5.04,8.86c-0.66,0.71-0.8,1.8-0.6,2.75c0.24,1.09,0.9,1.99,1.47,2.53
+				c0.14,0.13,0.24,0.23,0.4,0.35c0.26,0.2,0.44,0.33,0.75,0.5c0.42,0.24,0.91,0.44,1.44,0.56c0.58,0.14,1.2,0.18,1.82,0.13
+				c0.39-0.03,0.88-0.13,1.25-0.25C11.68,15.39,11.84,15.34,11.93,15.3 M5.3,8.63C5.34,8.62,5.35,8.66,5.35,8.7
+				C5.34,8.78,5.38,8.75,5.37,8.8C5.37,8.9,5.34,8.85,5.4,8.9c0.04,0.04,0.01,0.06,0.02,0.12c0.02,0.01,0.02,0.03,0.04,0.01
+				c0,0.04-0.01,0.03,0.03,0.07c0.04,0.04,0.03,0.04,0.05,0.07L5.6,9.24c0.02,0.03,0.02,0.01,0.04,0.04L5.91,9.6
+				c0.02,0.03,0.02,0.01,0.04,0.04l0.09,0.12c0.01,0.02,0.02,0.02,0.05,0.06l0.29,0.34c0.01,0.01-0.11,1.62-0.08,1.64
+				c0.02-0.05,0.41-2.3,0.42-2.37C6.74,9.3,6.76,9.14,6.97,9.14c0.18,0,0.37,0,0.56,0c0.04-0.12,0.01-0.33,0.2-0.38
+				C7.79,8.74,8.75,8.75,8.9,8.75c0.6,0,0.56-0.05,0.82,0.36l0.71,1.06c0.03,0.06,0.09,0.14,0.13,0.2l0.64,0.97
+				c0.04,0.07,0.08,0.12,0.13,0.19c0.04,0.05,0.09,0.15,0.13,0.19c0.03-0.04,0.63-3.11,0.7-3.46c0.01-0.06,0.04-0.17,0.04-0.23
+				c-0.19-0.02-0.44,0-0.63,0c-0.66,0-4.4-0.01-4.44,0.01C7.03,8.02,6.7,8.07,6.58,8.09C6.42,8.12,6.24,8.16,6.09,8.21
+				C5.94,8.26,5.81,8.32,5.67,8.39C5.59,8.43,5.33,8.58,5.3,8.63z"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<polyline class="st28" points="4.23,8.01 4.37,8.01 4.37,15.73 4.23,15.73 		"/>
+		<polyline class="st28" points="4.35,8.01 4.4,8.01 4.4,15.73 4.35,15.73 		"/>
+		<polyline class="st28" points="4.38,8.01 4.43,8.01 4.43,15.73 4.38,15.73 		"/>
+		<polyline class="st29" points="4.41,8.01 4.46,8.01 4.46,15.73 4.41,15.73 		"/>
+		<polyline class="st30" points="4.44,8.01 4.49,8.01 4.49,15.73 4.44,15.73 		"/>
+		<polyline class="st31" points="4.47,8.01 4.52,8.01 4.52,15.73 4.47,15.73 		"/>
+		<polyline class="st32" points="4.5,8.01 4.55,8.01 4.55,15.73 4.5,15.73 		"/>
+		<polyline class="st31" points="4.53,8.01 4.58,8.01 4.58,15.73 4.53,15.73 		"/>
+		<polyline class="st31" points="4.57,8.01 4.61,8.01 4.61,15.73 4.57,15.73 		"/>
+		<polyline class="st33" points="4.6,8.01 4.64,8.01 4.64,15.73 4.6,15.73 		"/>
+		<polyline class="st33" points="4.63,8.01 4.67,8.01 4.67,15.73 4.63,15.73 		"/>
+		<polyline class="st33" points="4.66,8.01 4.7,8.01 4.7,15.73 4.66,15.73 		"/>
+		<polyline class="st33" points="4.69,8.01 4.73,8.01 4.73,15.73 4.69,15.73 		"/>
+		<polyline class="st34" points="4.72,8.01 4.76,8.01 4.76,15.73 4.72,15.73 		"/>
+		<polyline class="st34" points="4.75,8.01 4.8,8.01 4.8,15.73 4.75,15.73 		"/>
+		<polyline class="st35" points="4.78,8.01 4.83,8.01 4.83,15.73 4.78,15.73 		"/>
+		<polyline class="st35" points="4.81,8.01 4.86,8.01 4.86,15.73 4.81,15.73 		"/>
+		<polyline class="st36" points="4.84,8.01 4.89,8.01 4.89,15.73 4.84,15.73 		"/>
+		<polyline class="st36" points="4.87,8.01 4.92,8.01 4.92,15.73 4.87,15.73 		"/>
+		<polyline class="st36" points="4.9,8.01 4.95,8.01 4.95,15.73 4.9,15.73 		"/>
+		<polyline class="st36" points="4.93,8.01 4.98,8.01 4.98,15.73 4.93,15.73 		"/>
+		<polyline class="st37" points="4.96,8.01 5.01,8.01 5.01,15.73 4.96,15.73 		"/>
+		<polyline class="st37" points="5,8.01 5.04,8.01 5.04,15.73 5,15.73 		"/>
+		<polyline class="st38" points="5.03,8.01 5.07,8.01 5.07,15.73 5.03,15.73 		"/>
+		<polyline class="st38" points="5.06,8.01 5.1,8.01 5.1,15.73 5.06,15.73 		"/>
+		<polyline class="st39" points="5.09,8.01 5.13,8.01 5.13,15.73 5.09,15.73 		"/>
+		<polyline class="st39" points="5.12,8.01 5.16,8.01 5.16,15.73 5.12,15.73 		"/>
+		<polyline class="st40" points="5.15,8.01 5.19,8.01 5.19,15.73 5.15,15.73 		"/>
+		<polyline class="st41" points="5.18,8.01 5.23,8.01 5.23,15.73 5.18,15.73 		"/>
+		<polyline class="st42" points="5.21,8.01 5.26,8.01 5.26,15.73 5.21,15.73 		"/>
+		<polyline class="st42" points="5.24,8.01 5.29,8.01 5.29,15.73 5.24,15.73 		"/>
+		<polyline class="st43" points="5.27,8.01 5.32,8.01 5.32,15.73 5.27,15.73 		"/>
+		<polyline class="st43" points="5.3,8.01 5.35,8.01 5.35,15.73 5.3,15.73 		"/>
+		<polyline class="st44" points="5.33,8.01 5.38,8.01 5.38,15.73 5.33,15.73 		"/>
+		<polyline class="st44" points="5.36,8.01 5.41,8.01 5.41,15.73 5.36,15.73 		"/>
+		<polyline class="st45" points="5.39,8.01 5.44,8.01 5.44,15.73 5.39,15.73 		"/>
+		<polyline class="st45" points="5.42,8.01 5.47,8.01 5.47,15.73 5.42,15.73 		"/>
+		<polyline class="st46" points="5.46,8.01 5.5,8.01 5.5,15.73 5.46,15.73 		"/>
+		<polyline class="st46" points="5.49,8.01 5.53,8.01 5.53,15.73 5.49,15.73 		"/>
+		<polyline class="st47" points="5.52,8.01 5.56,8.01 5.56,15.73 5.52,15.73 		"/>
+		<polyline class="st47" points="5.55,8.01 5.59,8.01 5.59,15.73 5.55,15.73 		"/>
+		<polyline class="st47" points="5.58,8.01 5.62,8.01 5.62,15.73 5.58,15.73 		"/>
+		<polyline class="st47" points="5.61,8.01 5.65,8.01 5.65,15.73 5.61,15.73 		"/>
+		<polyline class="st47" points="5.64,8.01 5.69,8.01 5.69,15.73 5.64,15.73 		"/>
+		<polyline class="st47" points="5.67,8.01 5.72,8.01 5.72,15.73 5.67,15.73 		"/>
+		<polyline class="st47" points="5.7,8.01 5.75,8.01 5.75,15.73 5.7,15.73 		"/>
+		<polyline class="st48" points="5.73,8.01 5.78,8.01 5.78,15.73 5.73,15.73 		"/>
+		<polyline class="st48" points="5.76,8.01 5.81,8.01 5.81,15.73 5.76,15.73 		"/>
+		<polyline class="st48" points="5.79,8.01 5.84,8.01 5.84,15.73 5.79,15.73 		"/>
+		<polyline class="st48" points="5.82,8.01 5.87,8.01 5.87,15.73 5.82,15.73 		"/>
+		<polyline class="st48" points="5.85,8.01 5.9,8.01 5.9,15.73 5.85,15.73 		"/>
+		<polyline class="st48" points="5.88,8.01 5.93,8.01 5.93,15.73 5.88,15.73 		"/>
+		<polyline class="st48" points="5.92,8.01 5.96,8.01 5.96,15.73 5.92,15.73 		"/>
+		<polyline class="st49" points="5.95,8.01 5.99,8.01 5.99,15.73 5.95,15.73 		"/>
+		<polyline class="st49" points="5.98,8.01 6.02,8.01 6.02,15.73 5.98,15.73 		"/>
+		<polyline class="st49" points="6.01,8.01 6.05,8.01 6.05,15.73 6.01,15.73 		"/>
+		<polyline class="st49" points="6.04,8.01 6.08,8.01 6.08,15.73 6.04,15.73 		"/>
+		<polyline class="st49" points="6.07,8.01 6.11,8.01 6.11,15.73 6.07,15.73 		"/>
+		<polyline class="st49" points="6.1,8.01 6.15,8.01 6.15,15.73 6.1,15.73 		"/>
+		<polyline class="st49" points="6.13,8.01 6.18,8.01 6.18,15.73 6.13,15.73 		"/>
+		<polyline class="st50" points="6.16,8.01 6.21,8.01 6.21,15.73 6.16,15.73 		"/>
+		<polyline class="st50" points="6.19,8.01 6.24,8.01 6.24,15.73 6.19,15.73 		"/>
+		<polyline class="st50" points="6.22,8.01 6.27,8.01 6.27,15.73 6.22,15.73 		"/>
+		<polyline class="st50" points="6.25,8.01 6.3,8.01 6.3,15.73 6.25,15.73 		"/>
+		<polyline class="st50" points="6.28,8.01 6.33,8.01 6.33,15.73 6.28,15.73 		"/>
+		<polyline class="st50" points="6.31,8.01 6.36,8.01 6.36,15.73 6.31,15.73 		"/>
+		<polyline class="st50" points="6.34,8.01 6.39,8.01 6.39,15.73 6.34,15.73 		"/>
+		<polyline class="st51" points="6.38,8.01 6.42,8.01 6.42,15.73 6.38,15.73 		"/>
+		<polyline class="st51" points="6.41,8.01 6.45,8.01 6.45,15.73 6.41,15.73 		"/>
+		<polyline class="st51" points="6.44,8.01 6.48,8.01 6.48,15.73 6.44,15.73 		"/>
+		<polyline class="st51" points="6.47,8.01 6.51,8.01 6.51,15.73 6.47,15.73 		"/>
+		<polyline class="st51" points="6.5,8.01 6.54,8.01 6.54,15.73 6.5,15.73 		"/>
+		<polyline class="st51" points="6.53,8.01 6.57,8.01 6.57,15.73 6.53,15.73 		"/>
+		<polyline class="st51" points="6.56,8.01 6.61,8.01 6.61,15.73 6.56,15.73 		"/>
+		<polyline class="st52" points="6.59,8.01 6.64,8.01 6.64,15.73 6.59,15.73 		"/>
+		<polyline class="st52" points="6.62,8.01 6.67,8.01 6.67,15.73 6.62,15.73 		"/>
+		<polyline class="st52" points="6.65,8.01 6.7,8.01 6.7,15.73 6.65,15.73 		"/>
+		<polyline class="st52" points="6.68,8.01 6.73,8.01 6.73,15.73 6.68,15.73 		"/>
+		<polyline class="st52" points="6.71,8.01 6.76,8.01 6.76,15.73 6.71,15.73 		"/>
+		<polyline class="st52" points="6.74,8.01 6.79,8.01 6.79,15.73 6.74,15.73 		"/>
+		<polyline class="st52" points="6.77,8.01 6.82,8.01 6.82,15.73 6.77,15.73 		"/>
+		<polyline class="st53" points="6.8,8.01 6.85,8.01 6.85,15.73 6.8,15.73 		"/>
+		<polyline class="st53" points="6.84,8.01 6.88,8.01 6.88,15.73 6.84,15.73 		"/>
+		<polyline class="st53" points="6.87,8.01 6.91,8.01 6.91,15.73 6.87,15.73 		"/>
+		<polyline class="st53" points="6.9,8.01 6.94,8.01 6.94,15.73 6.9,15.73 		"/>
+		<polyline class="st53" points="6.93,8.01 6.97,8.01 6.97,15.73 6.93,15.73 		"/>
+		<polyline class="st53" points="6.96,8.01 7,8.01 7,15.73 6.96,15.73 		"/>
+		<polyline class="st53" points="6.99,8.01 7.03,8.01 7.03,15.73 6.99,15.73 		"/>
+		<polyline class="st54" points="7.02,8.01 7.07,8.01 7.07,15.73 7.02,15.73 		"/>
+		<polyline class="st54" points="7.05,8.01 7.1,8.01 7.1,15.73 7.05,15.73 		"/>
+		<polyline class="st54" points="7.08,8.01 7.13,8.01 7.13,15.73 7.08,15.73 		"/>
+		<polyline class="st54" points="7.11,8.01 7.16,8.01 7.16,15.73 7.11,15.73 		"/>
+		<polyline class="st54" points="7.14,8.01 7.19,8.01 7.19,15.73 7.14,15.73 		"/>
+		<polyline class="st54" points="7.17,8.01 7.22,8.01 7.22,15.73 7.17,15.73 		"/>
+		<polyline class="st54" points="7.2,8.01 7.25,8.01 7.25,15.73 7.2,15.73 		"/>
+		<polyline class="st54" points="7.23,8.01 7.28,8.01 7.28,15.73 7.23,15.73 		"/>
+		<polyline class="st55" points="7.26,8.01 7.31,8.01 7.31,15.73 7.26,15.73 		"/>
+		<polyline class="st55" points="7.3,8.01 7.34,8.01 7.34,15.73 7.3,15.73 		"/>
+		<polyline class="st55" points="7.33,8.01 7.37,8.01 7.37,15.73 7.33,15.73 		"/>
+		<polyline class="st55" points="7.36,8.01 7.4,8.01 7.4,15.73 7.36,15.73 		"/>
+		<polyline class="st55" points="7.39,8.01 7.43,8.01 7.43,15.73 7.39,15.73 		"/>
+		<polyline class="st55" points="7.42,8.01 7.46,8.01 7.46,15.73 7.42,15.73 		"/>
+		<polyline class="st55" points="7.45,8.01 7.49,8.01 7.49,15.73 7.45,15.73 		"/>
+		<polyline class="st56" points="7.48,8.01 7.53,8.01 7.53,15.73 7.48,15.73 		"/>
+		<polyline class="st56" points="7.51,8.01 7.56,8.01 7.56,15.73 7.51,15.73 		"/>
+		<polyline class="st56" points="7.54,8.01 7.59,8.01 7.59,15.73 7.54,15.73 		"/>
+		<polyline class="st56" points="7.57,8.01 7.62,8.01 7.62,15.73 7.57,15.73 		"/>
+		<polyline class="st56" points="7.6,8.01 7.65,8.01 7.65,15.73 7.6,15.73 		"/>
+		<polyline class="st56" points="7.63,8.01 7.68,8.01 7.68,15.73 7.63,15.73 		"/>
+		<polyline class="st56" points="7.66,8.01 7.71,8.01 7.71,15.73 7.66,15.73 		"/>
+		<polyline class="st56" points="7.69,8.01 7.74,8.01 7.74,15.73 7.69,15.73 		"/>
+		<polyline class="st56" points="7.73,8.01 7.77,8.01 7.77,15.73 7.73,15.73 		"/>
+		<polyline class="st56" points="7.76,8.01 7.8,8.01 7.8,15.73 7.76,15.73 		"/>
+		<polyline class="st56" points="7.79,8.01 7.83,8.01 7.83,15.73 7.79,15.73 		"/>
+		<polyline class="st56" points="7.82,8.01 7.86,8.01 7.86,15.73 7.82,15.73 		"/>
+		<polyline class="st56" points="7.85,8.01 7.89,8.01 7.89,15.73 7.85,15.73 		"/>
+		<polyline class="st56" points="7.88,8.01 7.92,8.01 7.92,15.73 7.88,15.73 		"/>
+		<polyline class="st57" points="7.91,8.01 7.96,8.01 7.96,15.73 7.91,15.73 		"/>
+		<polyline class="st58" points="7.94,8.01 7.99,8.01 7.99,15.73 7.94,15.73 		"/>
+		<polyline class="st58" points="7.97,8.01 8.02,8.01 8.02,15.73 7.97,15.73 		"/>
+		<polyline class="st58" points="8,8.01 8.05,8.01 8.05,15.73 8,15.73 		"/>
+		<polyline class="st58" points="8.03,8.01 8.08,8.01 8.08,15.73 8.03,15.73 		"/>
+		<polyline class="st58" points="8.06,8.01 8.11,8.01 8.11,15.73 8.06,15.73 		"/>
+		<polyline class="st58" points="8.09,8.01 8.14,8.01 8.14,15.73 8.09,15.73 		"/>
+		<polyline class="st59" points="8.12,8.01 8.17,8.01 8.17,15.73 8.12,15.73 		"/>
+		<polyline class="st59" points="8.15,8.01 8.2,8.01 8.2,15.73 8.15,15.73 		"/>
+		<polyline class="st59" points="8.19,8.01 8.23,8.01 8.23,15.73 8.19,15.73 		"/>
+		<polyline class="st59" points="8.22,8.01 8.26,8.01 8.26,15.73 8.22,15.73 		"/>
+		<polyline class="st59" points="8.25,8.01 8.29,8.01 8.29,15.73 8.25,15.73 		"/>
+		<polyline class="st59" points="8.28,8.01 8.32,8.01 8.32,15.73 8.28,15.73 		"/>
+		<polyline class="st59" points="8.31,8.01 8.35,8.01 8.35,15.73 8.31,15.73 		"/>
+		<polyline class="st59" points="8.34,8.01 8.38,8.01 8.38,15.73 8.34,15.73 		"/>
+		<polyline class="st59" points="8.37,8.01 8.42,8.01 8.42,15.73 8.37,15.73 		"/>
+		<polyline class="st59" points="8.4,8.01 8.45,8.01 8.45,15.73 8.4,15.73 		"/>
+		<polyline class="st59" points="8.43,8.01 8.48,8.01 8.48,15.73 8.43,15.73 		"/>
+		<polyline class="st59" points="8.46,8.01 8.51,8.01 8.51,15.73 8.46,15.73 		"/>
+		<polyline class="st59" points="8.49,8.01 8.54,8.01 8.54,15.73 8.49,15.73 		"/>
+		<polyline class="st59" points="8.52,8.01 8.57,8.01 8.57,15.73 8.52,15.73 		"/>
+		<polyline class="st60" points="8.55,8.01 8.6,8.01 8.6,15.73 8.55,15.73 		"/>
+		<polyline class="st60" points="8.58,8.01 8.63,8.01 8.63,15.73 8.58,15.73 		"/>
+		<polyline class="st60" points="8.61,8.01 8.66,8.01 8.66,15.73 8.61,15.73 		"/>
+		<polyline class="st60" points="8.65,8.01 8.69,8.01 8.69,15.73 8.65,15.73 		"/>
+		<polyline class="st60" points="8.68,8.01 8.72,8.01 8.72,15.73 8.68,15.73 		"/>
+		<polyline class="st60" points="8.71,8.01 8.75,8.01 8.75,15.73 8.71,15.73 		"/>
+		<polyline class="st60" points="8.74,8.01 8.78,8.01 8.78,15.73 8.74,15.73 		"/>
+		<polyline class="st61" points="8.77,8.01 8.81,8.01 8.81,15.73 8.77,15.73 		"/>
+		<polyline class="st61" points="8.8,8.01 8.84,8.01 8.84,15.73 8.8,15.73 		"/>
+		<polyline class="st61" points="8.83,8.01 8.88,8.01 8.88,15.73 8.83,15.73 		"/>
+		<polyline class="st61" points="8.86,8.01 8.91,8.01 8.91,15.73 8.86,15.73 		"/>
+		<polyline class="st61" points="8.89,8.01 8.94,8.01 8.94,15.73 8.89,15.73 		"/>
+		<polyline class="st61" points="8.92,8.01 8.97,8.01 8.97,15.73 8.92,15.73 		"/>
+		<polyline class="st61" points="8.95,8.01 9,8.01 9,15.73 8.95,15.73 		"/>
+		<polyline class="st62" points="8.98,8.01 9.03,8.01 9.03,15.73 8.98,15.73 		"/>
+		<polyline class="st62" points="9.01,8.01 9.06,8.01 9.06,15.73 9.01,15.73 		"/>
+		<polyline class="st62" points="9.04,8.01 9.09,8.01 9.09,15.73 9.04,15.73 		"/>
+		<polyline class="st62" points="9.07,8.01 9.12,8.01 9.12,15.73 9.07,15.73 		"/>
+		<polyline class="st62" points="9.11,8.01 9.15,8.01 9.15,15.73 9.11,15.73 		"/>
+		<polyline class="st63" points="9.14,8.01 9.18,8.01 9.18,15.73 9.14,15.73 		"/>
+		<polyline class="st63" points="9.17,8.01 9.21,8.01 9.21,15.73 9.17,15.73 		"/>
+		<polyline class="st64" points="9.2,8.01 9.24,8.01 9.24,15.73 9.2,15.73 		"/>
+		<polyline class="st64" points="9.23,8.01 9.27,8.01 9.27,15.73 9.23,15.73 		"/>
+		<polyline class="st64" points="9.26,8.01 9.3,8.01 9.3,15.73 9.26,15.73 		"/>
+		<polyline class="st64" points="9.29,8.01 9.34,8.01 9.34,15.73 9.29,15.73 		"/>
+		<polyline class="st64" points="9.32,8.01 9.37,8.01 9.37,15.73 9.32,15.73 		"/>
+		<polyline class="st64" points="9.35,8.01 9.4,8.01 9.4,15.73 9.35,15.73 		"/>
+		<polyline class="st64" points="9.38,8.01 9.43,8.01 9.43,15.73 9.38,15.73 		"/>
+		<polyline class="st65" points="9.41,8.01 9.46,8.01 9.46,15.73 9.41,15.73 		"/>
+		<polyline class="st65" points="9.44,8.01 9.49,8.01 9.49,15.73 9.44,15.73 		"/>
+		<polyline class="st65" points="9.47,8.01 9.52,8.01 9.52,15.73 9.47,15.73 		"/>
+		<polyline class="st65" points="9.5,8.01 9.55,8.01 9.55,15.73 9.5,15.73 		"/>
+		<polyline class="st65" points="9.53,8.01 9.58,8.01 9.58,15.73 9.53,15.73 		"/>
+		<polyline class="st65" points="9.57,8.01 9.61,8.01 9.61,15.73 9.57,15.73 		"/>
+		<polyline class="st65" points="9.6,8.01 9.64,8.01 9.64,15.73 9.6,15.73 		"/>
+		<polyline class="st66" points="9.63,8.01 9.67,8.01 9.67,15.73 9.63,15.73 		"/>
+		<polyline class="st66" points="9.66,8.01 9.7,8.01 9.7,15.73 9.66,15.73 		"/>
+		<polyline class="st66" points="9.69,8.01 9.73,8.01 9.73,15.73 9.69,15.73 		"/>
+		<polyline class="st66" points="9.72,8.01 9.76,8.01 9.76,15.73 9.72,15.73 		"/>
+		<polyline class="st67" points="9.75,8.01 9.8,8.01 9.8,15.73 9.75,15.73 		"/>
+		<polyline class="st67" points="9.78,8.01 9.83,8.01 9.83,15.73 9.78,15.73 		"/>
+		<polyline class="st68" points="9.81,8.01 9.86,8.01 9.86,15.73 9.81,15.73 		"/>
+		<polyline class="st68" points="9.84,8.01 9.89,8.01 9.89,15.73 9.84,15.73 		"/>
+		<polyline class="st69" points="9.87,8.01 9.92,8.01 9.92,15.73 9.87,15.73 		"/>
+		<polyline class="st69" points="9.9,8.01 9.95,8.01 9.95,15.73 9.9,15.73 		"/>
+		<polyline class="st70" points="9.93,8.01 9.98,8.01 9.98,15.73 9.93,15.73 		"/>
+		<polyline class="st70" points="9.96,8.01 10.01,8.01 10.01,15.73 9.96,15.73 		"/>
+		<polyline class="st71" points="9.99,8.01 10.04,8.01 10.04,15.73 9.99,15.73 		"/>
+		<polyline class="st71" points="10.03,8.01 10.07,8.01 10.07,15.73 10.03,15.73 		"/>
+		<polyline class="st72" points="10.06,8.01 10.1,8.01 10.1,15.73 10.06,15.73 		"/>
+		<polyline class="st73" points="10.09,8.01 10.13,8.01 10.13,15.73 10.09,15.73 		"/>
+		<polyline class="st73" points="10.12,8.01 10.16,8.01 10.16,15.73 10.12,15.73 		"/>
+		<polyline class="st74" points="10.15,8.01 10.19,8.01 10.19,15.73 10.15,15.73 		"/>
+		<polyline class="st75" points="10.18,8.01 10.23,8.01 10.23,15.73 10.18,15.73 		"/>
+		<polyline class="st76" points="10.21,8.01 10.26,8.01 10.26,15.73 10.21,15.73 		"/>
+		<polyline class="st76" points="10.24,8.01 10.29,8.01 10.29,15.73 10.24,15.73 		"/>
+		<polyline class="st77" points="10.27,8.01 10.32,8.01 10.32,15.73 10.27,15.73 		"/>
+		<polyline class="st77" points="10.3,8.01 10.35,8.01 10.35,15.73 10.3,15.73 		"/>
+		<polyline class="st78" points="10.33,8.01 10.38,8.01 10.38,15.73 10.33,15.73 		"/>
+		<polyline class="st78" points="10.36,8.01 10.41,8.01 10.41,15.73 10.36,15.73 		"/>
+		<polyline class="st79" points="10.39,8.01 10.44,8.01 10.44,15.73 10.39,15.73 		"/>
+		<polyline class="st80" points="10.42,8.01 10.47,8.01 10.47,15.73 10.42,15.73 		"/>
+		<polyline class="st80" points="10.46,8.01 10.5,8.01 10.5,15.73 10.46,15.73 		"/>
+		<polyline class="st81" points="10.49,8.01 10.53,8.01 10.53,15.73 10.49,15.73 		"/>
+		<polyline class="st81" points="10.52,8.01 10.56,8.01 10.56,15.73 10.52,15.73 		"/>
+		<polyline class="st82" points="10.55,8.01 10.59,8.01 10.59,15.73 10.55,15.73 		"/>
+		<polyline class="st82" points="10.58,8.01 10.62,8.01 10.62,15.73 10.58,15.73 		"/>
+		<polyline class="st83" points="10.61,8.01 10.65,8.01 10.65,15.73 10.61,15.73 		"/>
+		<polyline class="st83" points="10.64,8.01 10.69,8.01 10.69,15.73 10.64,15.73 		"/>
+		<polyline class="st84" points="10.67,8.01 10.72,8.01 10.72,15.73 10.67,15.73 		"/>
+		<polyline class="st84" points="10.7,8.01 10.75,8.01 10.75,15.73 10.7,15.73 		"/>
+		<polyline class="st85" points="10.73,8.01 10.78,8.01 10.78,15.73 10.73,15.73 		"/>
+		<polyline class="st85" points="10.76,8.01 10.81,8.01 10.81,15.73 10.76,15.73 		"/>
+		<polyline class="st86" points="10.79,8.01 10.84,8.01 10.84,15.73 10.79,15.73 		"/>
+		<polyline class="st87" points="10.82,8.01 10.87,8.01 10.87,15.73 10.82,15.73 		"/>
+		<polyline class="st87" points="10.85,8.01 10.9,8.01 10.9,15.73 10.85,15.73 		"/>
+		<polyline class="st88" points="10.88,8.01 10.93,8.01 10.93,15.73 10.88,15.73 		"/>
+		<polyline class="st88" points="10.92,8.01 10.96,8.01 10.96,15.73 10.92,15.73 		"/>
+		<polyline class="st88" points="10.95,8.01 10.99,8.01 10.99,15.73 10.95,15.73 		"/>
+		<polyline class="st88" points="10.98,8.01 11.02,8.01 11.02,15.73 10.98,15.73 		"/>
+		<polyline class="st89" points="11.01,8.01 11.05,8.01 11.05,15.73 11.01,15.73 		"/>
+		<polyline class="st89" points="11.04,8.01 11.08,8.01 11.08,15.73 11.04,15.73 		"/>
+		<polyline class="st90" points="11.07,8.01 11.11,8.01 11.11,15.73 11.07,15.73 		"/>
+		<polyline class="st91" points="11.1,8.01 11.15,8.01 11.15,15.73 11.1,15.73 		"/>
+		<polyline class="st91" points="11.13,8.01 11.18,8.01 11.18,15.73 11.13,15.73 		"/>
+		<polyline class="st92" points="11.16,8.01 11.21,8.01 11.21,15.73 11.16,15.73 		"/>
+		<polyline class="st92" points="11.19,8.01 11.24,8.01 11.24,15.73 11.19,15.73 		"/>
+		<polyline class="st93" points="11.22,8.01 11.27,8.01 11.27,15.73 11.22,15.73 		"/>
+		<polyline class="st93" points="11.25,8.01 11.3,8.01 11.3,15.73 11.25,15.73 		"/>
+		<polyline class="st94" points="11.28,8.01 11.33,8.01 11.33,15.73 11.28,15.73 		"/>
+		<polyline class="st94" points="11.31,8.01 11.36,8.01 11.36,15.73 11.31,15.73 		"/>
+		<polyline class="st95" points="11.34,8.01 11.39,8.01 11.39,15.73 11.34,15.73 		"/>
+		<polyline class="st95" points="11.38,8.01 11.42,8.01 11.42,15.73 11.38,15.73 		"/>
+		<polyline class="st96" points="11.41,8.01 11.45,8.01 11.45,15.73 11.41,15.73 		"/>
+		<polyline class="st96" points="11.44,8.01 11.48,8.01 11.48,15.73 11.44,15.73 		"/>
+		<polyline class="st97" points="11.47,8.01 11.51,8.01 11.51,15.73 11.47,15.73 		"/>
+		<polyline class="st98" points="11.5,8.01 11.54,8.01 11.54,15.73 11.5,15.73 		"/>
+		<polyline class="st98" points="11.53,8.01 11.57,8.01 11.57,15.73 11.53,15.73 		"/>
+		<polyline class="st99" points="11.56,8.01 11.61,8.01 11.61,15.73 11.56,15.73 		"/>
+		<polyline class="st99" points="11.59,8.01 11.64,8.01 11.64,15.73 11.59,15.73 		"/>
+		<polyline class="st99" points="11.62,8.01 11.67,8.01 11.67,15.73 11.62,15.73 		"/>
+		<polyline class="st99" points="11.65,8.01 11.7,8.01 11.7,15.73 11.65,15.73 		"/>
+		<polyline class="st100" points="11.68,8.01 11.73,8.01 11.73,15.73 11.68,15.73 		"/>
+		<polyline class="st101" points="11.71,8.01 11.76,8.01 11.76,15.73 11.71,15.73 		"/>
+		<polyline class="st100" points="11.74,8.01 11.79,8.01 11.79,15.73 11.74,15.73 		"/>
+		<polyline class="st100" points="11.77,8.01 11.82,8.01 11.82,15.73 11.77,15.73 		"/>
+		<polyline class="st102" points="11.8,8.01 11.85,8.01 11.85,15.73 11.8,15.73 		"/>
+		<polyline class="st103" points="11.84,8.01 11.88,8.01 11.88,15.73 11.84,15.73 		"/>
+		<polyline class="st103" points="11.87,8.01 11.91,8.01 11.91,15.73 11.87,15.73 		"/>
+		<polyline class="st103" points="11.9,8.01 11.94,8.01 11.94,15.73 11.9,15.73 		"/>
+		<polyline class="st103" points="11.93,8.01 11.97,8.01 11.97,15.73 11.93,15.73 		"/>
+		<polyline class="st104" points="11.96,8.01 12,8.01 12,15.73 11.96,15.73 		"/>
+		<polyline class="st104" points="11.99,8.01 12.03,8.01 12.03,15.73 11.99,15.73 		"/>
+		<polyline class="st105" points="12.02,8.01 12.07,8.01 12.07,15.73 12.02,15.73 		"/>
+		<polyline class="st105" points="12.05,8.01 12.1,8.01 12.1,15.73 12.05,15.73 		"/>
+		<polyline class="st106" points="12.08,8.01 12.13,8.01 12.13,15.73 12.08,15.73 		"/>
+		<polyline class="st106" points="12.11,8.01 12.16,8.01 12.16,15.73 12.11,15.73 		"/>
+		<polyline class="st107" points="12.14,8.01 12.2,8.01 12.2,15.73 12.14,15.73 		"/>
+	</g>
+	<path class="st108" d="M5.44,6.69l0.53,0C5.98,6.64,6.01,6.66,6.02,6.6l-0.15,0c0-0.01,0.01,0-0.01-0.02c-0.01-0.01,0,0-0.02-0.01
+		c0.02-0.02,0.03-0.03,0.04-0.06c-0.01-0.01-0.01,0-0.03-0.02c0,0,0,0,0,0c0,0,0.04-0.02-0.04-0.02c0.02-0.04,0.01,0.01,0.02-0.04
+		H5.79c0,0,0,0.01,0.01-0.01c0.01-0.02,0.01,0.03,0-0.01L5.79,6.39c0,0,0,0,0,0L5.78,6.34l-0.05,0c0-0.01,0.01-0.01,0.01-0.03
+		c0,0,0,0,0,0C5.72,6.27,5.72,6.32,5.73,6.29l0.02-0.02H5.69l0.02-0.03C5.71,6.23,5.74,6.22,5.68,6.23
+		c0.07-0.05-0.02-0.04,0.01-0.03c0.04-0.06,0.05-0.05,0.06-0.1l-0.07,0c-0.02,0.02-0.1,0.11-0.13,0.14C5.5,6.29,5.46,6.34,5.42,6.39
+		C5.35,6.48,5.18,6.68,5.44,6.69 M5.68,6.1l0.07,0c-0.01,0.05-0.02,0.04-0.06,0.1C5.66,6.19,5.76,6.18,5.68,6.23
+		c0.06-0.01,0.02,0,0.03,0.02L5.69,6.27h0.05L5.73,6.29C5.72,6.32,5.72,6.27,5.73,6.3c0,0,0,0,0,0c0,0.02,0,0.02-0.01,0.03l0.05,0
+		l0.01,0.04c0,0,0,0,0,0L5.8,6.41c0.01,0.04,0.01-0.01,0,0.01C5.79,6.43,5.79,6.43,5.79,6.43h0.05c-0.01,0.05,0,0.01-0.02,0.04
+		c0.07,0,0.03,0.01,0.04,0.02c0,0,0,0,0,0C5.88,6.51,5.88,6.5,5.89,6.51C5.87,6.53,5.87,6.55,5.84,6.57c0.02,0.01,0.01,0,0.02,0.01
+		c0.02,0.02,0,0.01,0.01,0.02l0.15,0C6.01,6.66,5.98,6.64,5.97,6.69l1.91,0C7.86,6.5,7.8,6.32,7.81,6.09
+		c0.02-0.57,0.32-0.92,0.77-1.23C8.94,4.63,9.37,4.49,9.8,4.42c0.17-0.03,0.44-0.05,0.63-0.05c0.05,0,0.3,0.01,0.32,0
+		C9.66,4.2,8.68,4.34,7.75,4.69c-0.6,0.23-1.14,0.57-1.62,0.98C6.05,5.73,5.71,6.04,5.68,6.1z"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="8.68" y="10.13" width="1.61" height="2.27">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="8.68" y="10.13" width="1.61" height="2.27" id="SVGID_5_">
+		<g class="st109">
+			
+				<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-270.7081" y1="306.1041" x2="-271.5396" y2="307.4855" gradientTransform="matrix(1 0 0 1 280.3921 -295.1688)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<rect x="8.68" y="10.13" class="st110" width="1.61" height="2.27"/>
+		</g>
+	</mask>
+	<path class="st111" d="M8.68,10.77c-0.01,0.06,0.08,0.16,0.11,0.21c0.04,0.07,0.09,0.14,0.13,0.2c0.12,0.2,0.27,0.42,0.39,0.61
+		l0.33,0.51c0.02,0.03,0.05,0.07,0.06,0.1l0.58,0c0.01-0.01,0.01,0,0.01-0.02c-0.01-0.04-1.36-2.05-1.48-2.25
+		C8.79,10.16,8.68,10.72,8.68,10.77"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="6.14" y="9.13" width="1.39" height="3.93">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="6.14" y="9.13" width="1.39" height="3.93" id="SVGID_7_">
+		<g class="st112">
+			
+				<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="-227.3214" y1="293.6848" x2="-227.7038" y2="296.0096" gradientTransform="matrix(1 0 0 1 234.2443 -283.1409)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<rect x="6.14" y="9.13" class="st113" width="1.39" height="3.93"/>
+		</g>
+	</mask>
+	<path class="st114" d="M6.8,13.06c-0.07-0.07-0.03-0.19-0.01-0.29c0.08-0.41,0.16-0.81,0.25-1.21c0.08-0.4,0.16-0.81,0.25-1.21
+		c0.04-0.2,0.08-0.41,0.12-0.61c0.04-0.2,0.09-0.41,0.12-0.61c-0.19,0-0.37,0-0.56,0c-0.2,0-0.23,0.17-0.25,0.29
+		c-0.17,0.83-0.59,2.18-0.58,2.91c0,0.35,0,0.13,0.35,0.45L6.8,13.06z"/>
+</g>
+</svg>
