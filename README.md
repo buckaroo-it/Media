@@ -35,7 +35,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Belfius](https://www.buckaroo.eu/solutions/payment-methods/belfius)  |  ![Belfius](Payment%20methods/PNG/Belfius.png) | ![Belfius](Payment%20methods/SVG/Belfius.svg) |
 | [Billink](https://www.buckaroo.eu/solutions/payment-methods/billink)  |  ![Belfius](Payment%20methods/PNG/Billink.png) | ![Billink](Payment%20methods/SVG/Billink.svg) |
 | [Buckaroo Voucher](https://docs.buckaroo.io/docs/buckaroo-voucher)  |  ![Buckaroo Voucher](Payment%20methods/PNG/BuckarooVoucher.png) | ![Buckaroo Voucher](Payment%20methods/SVG/BuckarooVoucher.svg) |
-| [Creditcards](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Creditcards](Payment%20methods/PNG/CreditCards.png) | ![Creditcards](Payment%20methods/SVG/CreditCards.svg) |
+| [Credit- debitcards](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Creditcards](Payment%20methods/PNG/CreditCards.png) | ![Creditcards](Payment%20methods/SVG/CreditCards.svg) |
 | [EPS](https://www.buckaroo.eu/solutions/payment-methods/eps)  |  ![EPS](Payment%20methods/PNG/EPS.png) | ![EPS](Payment%20methods/SVG/EPS.svg) |
 | [Giftcards](https://www.buckaroo.eu/solutions/payment-methods/giftcards)  |  ![Giftcards](Payment%20methods/PNG/Giftcards.png) | ![Giftcards](Payment%20methods/SVG/Giftcards.svg) |
 | [Giropay](https://www.buckaroo.eu/solutions/payment-methods/giropay)  |  ![Giropay](Payment%20methods/PNG/Giropay.png) | ![Giropay](Payment%20methods/SVG/Giropay.svg) |
@@ -55,7 +55,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Trustly](https://www.buckaroo.eu/solutions/payment-methods/trustly)  |  ![Tinka](Payment%20methods/PNG/Trustly.png) | ![Tinka](Payment%20methods/SVG/Trustly.svg) |
 | [WeChat Pay](https://www.buckaroo.eu/solutions/payment-methods/wechat-pay)  |  ![WeChat Pay](Payment%20methods/PNG/WeChatPay.png) | ![WeChat Pay](Payment%20methods/SVG/WeChat%20Pay.svg) |
 
-# Logos creditcard issuers
+# Logos credit- debit card issuers
 | Method  | .PNG | .SVG |
 | ------------- | ------------- | ------------ |
 | [American Express](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![American Express](Creditcard%20issuers/PNG/AmericanExpress.png)  | ![American Express](Creditcard%20issuers/SVG/AMEX.svg) |
