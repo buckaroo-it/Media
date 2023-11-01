@@ -1,4 +1,4 @@
-w<p align="center">
+<p align="center">
   <img src="https://www.buckaroo.nl/media/3493/media_icon.png" width="200px" position="center">
 </p>
 
