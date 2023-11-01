@@ -1,4 +1,4 @@
-<p align="center">
+w<p align="center">
   <img src="https://www.buckaroo.nl/media/3493/media_icon.png" width="200px" position="center">
 </p>
 
@@ -116,18 +116,12 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | ------------- | ------------- | ------------ |
 | [ABN AMRO](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![ABN AMRO](PayByBank%20bank%20issuers/NL/PNG/ABNAMRO.png)  | ![ABN AMRO](PayByBank%20bank%20issuers/NL/SVG/ABNAMRO.svg) | 
 | [ASN Bank](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![ASN Bank](PayByBank%20bank%20issuers/NL/PNG/ASNBANK.png)  | ![ASN Bank](PayByBank%20bank%20issuers/NL/SVG/ASNBank.svg) |
-| [bunq](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![bunq](PayByBank%20bank%20issuers/NL/PNG/Bunq.png)  | ![bunq](PayByBank%20bank%20issuers/NL/SVG/Bunq.svg) | 
 | [ING](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![ING](PayByBank%20bank%20issuers/NL/PNG/ING.png)  | ![ING](PayByBank%20bank%20issuers/NL/SVG/ING.svg) |
 | [KNAB](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![KNAB](PayByBank%20bank%20issuers/NL/PNG/KNAB.png)  | ![KNAB](PayByBank%20bank%20issuers/NL/SVG/KNAB.svg) | 
 | [N26](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![N26](PayByBank%20bank%20issuers/NL/PNG/N26.png)  | ![N26](PayByBank%20bank%20issuers/NL/SVG/N26.svg) | 
-| [Nationale Nederlanden](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bankl)  |  ![Nationale Nederlanden](PayByBank%20bank%20issuers/NL/PNG/NN.png)  | ![Nationale Nederlanden](PayByBank%20bank%20issuers/NL/SVG/NN.svg) | 
 | [Rabobank](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![Rabobank](PayByBank%20bank%20issuers/NL/PNG/Rabobank.png)  | ![Rabobank](PayByBank%20bank%20issuers/NL/SVG/Rabobank.svg) | 
 | [RegioBank](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![RegioBank](PayByBank%20bank%20issuers/NL/PNG/Regiobank.png)  | ![RegioBank](PayByBank%20bank%20issuers/NL/SVG/RegioBank.svg) | 
-| [Revolut](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![Revolut](PayByBank%20bank%20issuers/NL/PNG/Revolut.png)  | ![Revolut](PayByBank%20bank%20issuers/NL/SVG/Revolut.svg) | 
 | [SNS Bank](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![SNS Bank](PayByBank%20bank%20issuers/NL/PNG/SNS.png)  | ![SNS Bank](PayByBank%20bank%20issuers/NL/SVG/SNS.svg) | 
-| [Triodos Bank](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![Triodos Bank](PayByBank%20bank%20issuers/NL/PNG/Triodos.png)  | ![Triodos Bank](PayByBank%20bank%20issuers/NL/SVG/Triodos.svg) | 
-| [Van Lanschot Kempen](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![Van Lanschot Kempen](PayByBank%20bank%20issuers/NL/PNG/vanLanschot.png)  | ![Van Lanschot Kempenk](PayByBank%20bank%20issuers/NL/SVG/vanLanschot.svg) | 
-| [Yoursafe](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![Yoursafe](PayByBank%20bank%20issuers/NL/PNG/YourSafe.png)  | ![Yoursafe](PayByBank%20bank%20issuers/NL/SVG/YourSafe.svg) | 
 
 # Logos Pay by Bank issuers (Belgium)
 | Method  | .PNG | .SVG |
