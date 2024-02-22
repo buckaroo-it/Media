@@ -46,6 +46,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [In3](https://www.buckaroo.eu/solutions/payment-methods/in3)  |  ![In3](Payment%20methods/PNG/In3.png) | ![In3](Payment%20methods/SVG/In3.svg) |
 | [KBC](https://www.buckaroo.eu/solutions/payment-methods/kbc)  |  ![KBC](Payment%20methods/PNG/KBC.png) | ![KBC](Payment%20methods/SVG/KBC.svg) |
 | [Klarna](https://www.buckaroo.eu/solutions/payment-methods/klarna)  |  ![Klarna](Payment%20methods/PNG/Klarna.png) | ![Klarna](Payment%20methods/SVG/Klarna.svg) |
+| [Knaken Settle](https://www.buckaroo.eu/online-payments/payment-methods/knaken-settle)  |  ![Knaken Settle](Payment%20methods/PNG/Knaken.png) | ![Knaken Settle](Payment%20methods/SVG/Knaken.svg) |
 | [MBWay](https://www.buckaroo.eu/solutions/payment-methods/mbway)  |  ![MBWay](Payment%20methods/PNG/MBWay.png) | ![Multibanco](Payment%20methods/SVG/MBWay.svg) |
 | [Multibanco](https://www.buckaroo.eu/solutions/payment-methods/multibanco)  |  ![Multibanco](Payment%20methods/PNG/Multibanco.png) | ![Multibanco](Payment%20methods/SVG/Multibanco.svg) |
 | [Payconiq](https://www.buckaroo.eu/solutions/payment-methods/payconiq)  |  ![Payconiq](Payment%20methods/PNG/Payconic.png) | ![Payconiq](Payment%20methods/SVG/Payconiq.svg) |
