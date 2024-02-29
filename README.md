@@ -30,37 +30,38 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 # Logos payment methods
 | Method  | .PNG | .SVG |
 | ------------- | ------------- | ------------ |
-| [AfterPay](https://www.buckaroo.eu/solutions/payment-methods/afterpay)  |  ![AfterPay](Payment%20methods/PNG/AfterPay.png)  | ![AfterPay](Payment%20methods/SVG/AfterPay.svg) |
-| [Alipay](https://www.buckaroo.eu/solutions/payment-methods/alipay)  |  ![Alipay](Payment%20methods/PNG/AliPay.png)  | ![Alipay](Payment%20methods/SVG/Alipay.svg) |
-| [Apple Pay](https://www.buckaroo.eu/solutions/payment-methods/apple-pay)  |  ![Apple Pay](Payment%20methods/PNG/ApplePay.png) | ![Apple Pay](Payment%20methods/SVG/Apple%20Pay.svg) |
-| [Bancontact](https://www.buckaroo.eu/solutions/payment-methods/bancontact)  |  ![Bancontact](Payment%20methods/PNG/Bancontact.png) | ![Bancontact](Payment%20methods/SVG/Bancontact.svg) |
-| [Belfius](https://www.buckaroo.eu/solutions/payment-methods/belfius)  |  ![Belfius](Payment%20methods/PNG/Belfius.png) | ![Belfius](Payment%20methods/SVG/Belfius.svg) |
-| [Billink](https://www.buckaroo.eu/solutions/payment-methods/billink)  |  ![Belfius](Payment%20methods/PNG/Billink.png) | ![Billink](Payment%20methods/SVG/Billink.svg) |
-| [Buckaroo Voucher](https://docs.buckaroo.io/docs/buckaroo-voucher)  |  ![Buckaroo Voucher](Payment%20methods/PNG/BuckarooVoucher.png) | ![Buckaroo Voucher](Payment%20methods/SVG/BuckarooVoucher.svg) |
-| [Credit- debitcards](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Creditcards](Payment%20methods/PNG/CreditCards.png) | ![Creditcards](Payment%20methods/SVG/CreditCards.svg) |
-| [EPS](https://www.buckaroo.eu/solutions/payment-methods/eps)  |  ![EPS](Payment%20methods/PNG/EPS.png) | ![EPS](Payment%20methods/SVG/EPS.svg) |
-| [Giftcards](https://www.buckaroo.eu/solutions/payment-methods/giftcards)  |  ![Giftcards](Payment%20methods/PNG/Giftcards.png) | ![Giftcards](Payment%20methods/SVG/Giftcards.svg) |
-| [Giropay](https://www.buckaroo.eu/solutions/payment-methods/giropay)  |  ![Giropay](Payment%20methods/PNG/Giropay.png) | ![Giropay](Payment%20methods/SVG/Giropay.svg) |
-| [iDEAL](https://www.buckaroo.eu/solutions/payment-methods/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL.png) | ![iDEAL](Payment%20methods/SVG/iDEAL.svg) |
-| [iDEAL In3](https://www.buckaroo.eu/solutions/payment-methods/in3)  |  ![iDEAL In3](Payment%20methods/PNG/iDEAL-In3.png) | ![iDEAL In3](Payment%20methods/SVG/iDEAL-In3.svg) |
-| [In3](https://www.buckaroo.eu/solutions/payment-methods/in3)  |  ![In3](Payment%20methods/PNG/In3.png) | ![In3](Payment%20methods/SVG/In3.svg) |
-| [KBC](https://www.buckaroo.eu/solutions/payment-methods/kbc)  |  ![KBC](Payment%20methods/PNG/KBC.png) | ![KBC](Payment%20methods/SVG/KBC.svg) |
-| [Klarna](https://www.buckaroo.eu/solutions/payment-methods/klarna)  |  ![Klarna](Payment%20methods/PNG/Klarna.png) | ![Klarna](Payment%20methods/SVG/Klarna.svg) |
-| [Knaken Settle](https://www.buckaroo.eu/online-payments/payment-methods/knaken-settle)  |  ![Knaken Settle](Payment%20methods/PNG/Knaken.png) | ![Knaken Settle](Payment%20methods/SVG/Knaken.svg) |
-| [MBWay](https://www.buckaroo.eu/solutions/payment-methods/mbway)  |  ![MBWay](Payment%20methods/PNG/MBWay.png) | ![Multibanco](Payment%20methods/SVG/MBWay.svg) |
-| [Multibanco](https://www.buckaroo.eu/solutions/payment-methods/multibanco)  |  ![Multibanco](Payment%20methods/PNG/Multibanco.png) | ![Multibanco](Payment%20methods/SVG/Multibanco.svg) |
-| [Payconiq](https://www.buckaroo.eu/solutions/payment-methods/payconiq)  |  ![Payconiq](Payment%20methods/PNG/Payconic.png) | ![Payconiq](Payment%20methods/SVG/Payconiq.svg) |
-| [PayPal](https://www.buckaroo.eu/solutions/payment-methods/paypal)  |  ![PayPal](Payment%20methods/PNG/PayPal.png) | ![PayPal](Payment%20methods/SVG/PayPal.svg) |
-| [PayPerEmail](https://www.buckaroo.eu/solutions/payperemail)  |  ![PayPerEmail](Payment%20methods/PNG/PayPerEmail.png) | ![PayPerEmail](Payment%20methods/SVG/PayPerEmail.svg) |
-| [POS (Point Of Sale)](https://www.buckaroo.nl/oplossingen/sepay-by-buckaroo)  |  ![Point Of Sale](Payment%20methods/PNG/POS.png) | ![Point Of Sale](Payment%20methods/SVG/POS.svg) |
-| [POS (Point Of Sale with NFC)](https://www.buckaroo.nl/oplossingen/sepay-by-buckaroo)  |  ![Point Of Sale with NFC](Payment%20methods/PNG/POS-NFC.png) | ![Point Of Sale with NFC](Payment%20methods/SVG/POS-NFC.svg) |
-| [Przelewy24](https://www.buckaroo.eu/solutions/payment-methods/przelewy24)  |  ![Przelewy24](Payment%20methods/PNG/Przelewy24.png) | ![Przelewy24](Payment%20methods/SVG/Przelewy24.svg) |
-| [SEPA Credit Transfer](https://www.buckaroo.eu/solutions/payment-methods/sepa-credit-transfer)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-credittransfer.svg) |
-| [SEPA Direct Debit](https://www.buckaroo.eu/solutions/payment-methods/sepa-direct-debit)  |  ![SEPA Direct Debit](Payment%20methods/PNG/SEPA-directdebit.png) | ![SEPA Direct Debit](Payment%20methods/SVG/SEPA-directdebit.svg) |
-| [Sofort](https://www.buckaroo.eu/solutions/payment-methods/sofort)  |  ![Sofort](Payment%20methods/PNG/Sofort.png) | ![Sofort](Payment%20methods/SVG/Sofort.svg) |
+| [Alipay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/alipay)  |  ![Alipay](Payment%20methods/PNG/AliPay.png)  | ![Alipay](Payment%20methods/SVG/Alipay.svg) |
+| [Apple Pay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/apple-pay)  |  ![Apple Pay](Payment%20methods/PNG/ApplePay.png) | ![Apple Pay](Payment%20methods/SVG/Apple%20Pay.svg) |
+| [Bancontact](https://www.buckaroo.nl/online-betalingen/betaalmethoden/bancontact)  |  ![Bancontact](Payment%20methods/PNG/Bancontact.png) | ![Bancontact](Payment%20methods/SVG/Bancontact.svg) |
+| [Belfius](https://www.buckaroo.nl/online-betalingen/betaalmethoden/belfius)  |  ![Belfius](Payment%20methods/PNG/Belfius.png) | ![Belfius](Payment%20methods/SVG/Belfius.svg) |
+| [Billink](https://www.buckaroo.nl/online-betalingen/betaalmethoden/billink)  |  ![Belfius](Payment%20methods/PNG/Billink.png) | ![Billink](Payment%20methods/SVG/Billink.svg) |
+| [Buckaroo Voucher](https://www.buckaroo.nl/online-betalingen/betaalmethoden/tegoedvoucher)  |  ![Buckaroo Voucher](Payment%20methods/PNG/BuckarooVoucher.png) | ![Buckaroo Voucher](Payment%20methods/SVG/BuckarooVoucher.svg) |
+| [Credit- debitcards](https://www.buckaroo.nl/online-betalingen/betaalmethoden?search=creditcard)  |  ![Creditcards](Payment%20methods/PNG/CreditCards.png) | ![Creditcards](Payment%20methods/SVG/CreditCards.svg) |
+| [EPS](https://www.buckaroo.nl/online-betalingen/betaalmethoden/eps)  |  ![EPS](Payment%20methods/PNG/EPS.png) | ![EPS](Payment%20methods/SVG/EPS.svg) |
+| [Giftcards](https://www.buckaroo.nl/online-betalingen/betaalmethoden/cadeaukaarten)  |  ![Giftcards](Payment%20methods/PNG/Giftcards.png) | ![Giftcards](Payment%20methods/SVG/Giftcards.svg) |
+| [Giropay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/giropay)  |  ![Giropay](Payment%20methods/PNG/Giropay.png) | ![Giropay](Payment%20methods/SVG/Giropay.svg) |
+| [iDEAL](https://www.buckaroo.nl/online-betalingen/betaalmethoden/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL.png) | ![iDEAL](Payment%20methods/SVG/iDEAL.svg) |
+| [iDEAL QR](https://www.buckaroo.nl/online-betalingen/betaalmethoden/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL-QR.png) | ![iDEAL](Payment%20methods/SVG/iDEAL-QR.svg) |
+| [iDEAL In3](https://www.buckaroo.nl/online-betalingen/betaalmethoden/in3)  |  ![iDEAL In3](Payment%20methods/PNG/iDEAL-In3.png) | ![iDEAL In3](Payment%20methods/SVG/iDEAL-In3.svg) |
+| [In3](https://www.buckaroo.nl/online-betalingen/betaalmethoden/in3)  |  ![In3](Payment%20methods/PNG/In3.png) | ![In3](Payment%20methods/SVG/In3.svg) |
+| [KBC](https://www.buckaroo.nl/online-betalingen/betaalmethoden/kbc)  |  ![KBC](Payment%20methods/PNG/KBC.png) | ![KBC](Payment%20methods/SVG/KBC.svg) |
+| [Klarna](https://www.buckaroo.nl/online-betalingen/betaalmethoden/klarna)  |  ![Klarna](Payment%20methods/PNG/Klarna.png) | ![Klarna](Payment%20methods/SVG/Klarna.svg) |
+| [Knaken Settle](https://www.buckaroo.nl/online-betalingen/betaalmethoden/knaken)  |  ![Knaken Settle](Payment%20methods/PNG/Knaken.png) | ![Knaken Settle](Payment%20methods/SVG/Knaken.svg) |
+| [MBWay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/mb-way)  |  ![MBWay](Payment%20methods/PNG/MBWay.png) | ![Multibanco](Payment%20methods/SVG/MBWay.svg) |
+| [Multibanco](https://www.buckaroo.nl/online-betalingen/betaalmethoden/multibanco)  |  ![Multibanco](Payment%20methods/PNG/Multibanco.png) | ![Multibanco](Payment%20methods/SVG/Multibanco.svg) |
+| [Payconiq](https://www.buckaroo.nl/online-betalingen/betaalmethoden/payconiq)  |  ![Payconiq](Payment%20methods/PNG/Payconic.png) | ![Payconiq](Payment%20methods/SVG/Payconiq.svg) |
+| [PayPal](https://www.buckaroo.nl/online-betalingen/betaalmethoden/paypal)  |  ![PayPal](Payment%20methods/PNG/PayPal.png) | ![PayPal](Payment%20methods/SVG/PayPal.svg) |
+| [PayPerEmail](https://www.buckaroo.nl/online-betalingen/betaalmethoden/payperemail)  |  ![PayPerEmail](Payment%20methods/PNG/PayPerEmail.png) | ![PayPerEmail](Payment%20methods/SVG/PayPerEmail.svg) |
+| [POS (Point Of Sale)](https://www.buckaroo.nl/pinapparaten)  |  ![Point Of Sale](Payment%20methods/PNG/POS.png) | ![Point Of Sale](Payment%20methods/SVG/POS.svg) |
+| [POS (Point Of Sale with NFC)](https://www.buckaroo.nl/pinapparaten)  |  ![Point Of Sale with NFC](Payment%20methods/PNG/POS-NFC.png) | ![Point Of Sale with NFC](Payment%20methods/SVG/POS-NFC.svg) |
+| [Riverty/AfterPay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/afterpay-riverty-nl)  |  ![Riverty](Payment%20methods/PNG/AfterPay.png)  | ![Riverty](Payment%20methods/SVG/AfterPay.svg) |
+| [Przelewy24](https://www.buckaroo.nl/online-betalingen/betaalmethoden/przelewy24)  |  ![Przelewy24](Payment%20methods/PNG/Przelewy24.png) | ![Przelewy24](Payment%20methods/SVG/Przelewy24.svg) |
+| [SEPA Credit Transfer](https://www.buckaroo.nl/online-betalingen/betaalmethoden/sepa-overboeking)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-credittransfer.svg) |
+| [SEPA Direct Debit](https://www.buckaroo.nl/online-betalingen/betaalmethoden/sepa-incasso)  |  ![SEPA Direct Debit](Payment%20methods/PNG/SEPA-directdebit.png) | ![SEPA Direct Debit](Payment%20methods/SVG/SEPA-directdebit.svg) |
+| [Sofort](https://www.buckaroo.nl/online-betalingen/betaalmethoden/sofort)  |  ![Sofort](Payment%20methods/PNG/Sofort.png) | ![Sofort](Payment%20methods/SVG/Sofort.svg) |
 | [Tinka](https://www.buckaroo.eu/solutions/payment-methods/tinka)  |  ![Tinka](Payment%20methods/PNG/tinka.png) | ![Tinka](Payment%20methods/SVG/Tinka.svg) |
-| [Trustly](https://www.buckaroo.eu/solutions/payment-methods/trustly)  |  ![Tinka](Payment%20methods/PNG/Trustly.png) | ![Tinka](Payment%20methods/SVG/Trustly.svg) |
-| [WeChat Pay](https://www.buckaroo.eu/solutions/payment-methods/wechat-pay)  |  ![WeChat Pay](Payment%20methods/PNG/WeChatPay.png) | ![WeChat Pay](Payment%20methods/SVG/WeChat%20Pay.svg) |
+| [Trustly](https://www.buckaroo.nl/online-betalingen/betaalmethoden/trustly)  |  ![Tinka](Payment%20methods/PNG/Trustly.png) | ![Tinka](Payment%20methods/SVG/Trustly.svg) |
+| [WeChat Pay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/wechat-pay)  |  ![WeChat Pay](Payment%20methods/PNG/WeChatPay.png) | ![WeChat Pay](Payment%20methods/SVG/WeChat%20Pay.svg) |
 
 # Logos credit and debit card issuers
 | Method  | .PNG | .SVG |
@@ -70,7 +71,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Carte Bleue](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Carte Bleue](Creditcard%20issuers/PNG/CarteBleue.png)  | ![Carte Bleue](Creditcard%20issuers/SVG/CarteBleue.svg) |
 | [Dankort](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Dankort](Creditcard%20issuers/PNG/Dankort.png)  | ![Dankort](Creditcard%20issuers/SVG/Dankort.svg) |
 | [Maestro](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Maestro](Creditcard%20issuers/PNG/Maestro.png)  | ![Maestro](Creditcard%20issuers/SVG/Maestro.svg) |
-| [Mastercard](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Mastercard](Creditcard%20issuers/PNG/Mastercard.png)  | ![Mastercard](Creditcard%20issuers/SVG/MasterCard.svg) |
+| [Mastercard](https://www.buckaroo.eu/online-payments/payment-methods/mastercard)  |  ![Mastercard](Creditcard%20issuers/PNG/Mastercard.png)  | ![Mastercard](Creditcard%20issuers/SVG/MasterCard.svg) |
 | [Nexi](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Nexi](Creditcard%20issuers/PNG/Nexi.png)  | ![Nexi](Creditcard%20issuers/SVG/Nexi.svg) |
 | [Postepay](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![Postpay](Creditcard%20issuers/PNG/PostePay.png)  | ![Postpay](Creditcard%20issuers/SVG/Postepay.svg) |
 | [VISA](https://www.buckaroo.eu/solutions/payment-methods/creditcards)  |  ![VISA](Creditcard%20issuers/PNG/VISA.png)  | ![VISA](Creditcard%20issuers/SVG/Visa.svg) |
