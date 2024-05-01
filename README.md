@@ -59,7 +59,6 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [SEPA Credit Transfer](https://www.buckaroo.nl/online-betalingen/betaalmethoden/sepa-overboeking)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-credittransfer.svg) |
 | [SEPA Direct Debit](https://www.buckaroo.nl/online-betalingen/betaalmethoden/sepa-incasso)  |  ![SEPA Direct Debit](Payment%20methods/PNG/SEPA-directdebit.png) | ![SEPA Direct Debit](Payment%20methods/SVG/SEPA-directdebit.svg) |
 | [Sofort](https://www.buckaroo.nl/online-betalingen/betaalmethoden/sofort)  |  ![Sofort](Payment%20methods/PNG/Sofort.png) | ![Sofort](Payment%20methods/SVG/Sofort.svg) |
-| [Tinka](https://www.buckaroo.eu/solutions/payment-methods/tinka)  |  ![Tinka](Payment%20methods/PNG/tinka.png) | ![Tinka](Payment%20methods/SVG/Tinka.svg) |
 | [Trustly](https://www.buckaroo.nl/online-betalingen/betaalmethoden/trustly)  |  ![Tinka](Payment%20methods/PNG/Trustly.png) | ![Tinka](Payment%20methods/SVG/Trustly.svg) |
 | [WeChat Pay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/wechat-pay)  |  ![WeChat Pay](Payment%20methods/PNG/WeChatPay.png) | ![WeChat Pay](Payment%20methods/SVG/WeChat%20Pay.svg) |
 
