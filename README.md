@@ -34,7 +34,8 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Apple Pay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/apple-pay)  |  ![Apple Pay](Payment%20methods/PNG/ApplePay.png) | ![Apple Pay](Payment%20methods/SVG/Apple%20Pay.svg) |
 | [Bancontact](https://www.buckaroo.nl/online-betalingen/betaalmethoden/bancontact)  |  ![Bancontact](Payment%20methods/PNG/Bancontact.png) | ![Bancontact](Payment%20methods/SVG/Bancontact.svg) |
 | [Belfius](https://www.buckaroo.nl/online-betalingen/betaalmethoden/belfius)  |  ![Belfius](Payment%20methods/PNG/Belfius.png) | ![Belfius](Payment%20methods/SVG/Belfius.svg) |
-| [Billink](https://www.buckaroo.nl/online-betalingen/betaalmethoden/billink)  |  ![Belfius](Payment%20methods/PNG/Billink.png) | ![Billink](Payment%20methods/SVG/Billink.svg) |
+| [Billink](https://www.buckaroo.nl/online-betalingen/betaalmethoden/billink)  |  ![Billink](Payment%20methods/PNG/Billink.png) | ![Billink](Payment%20methods/SVG/Billink.svg) |
+| [Blik](https://www.buckaroo.nl/online-betalingen/betaalmethoden)  |  ![Blik](Payment%20methods/PNG/Blik.png) | ![Blik](Payment%20methods/SVG/Blik.svg) |
 | [Buckaroo Voucher](https://www.buckaroo.nl/online-betalingen/betaalmethoden/tegoedvoucher)  |  ![Buckaroo Voucher](Payment%20methods/PNG/BuckarooVoucher.png) | ![Buckaroo Voucher](Payment%20methods/SVG/BuckarooVoucher.svg) |
 | [Credit- debitcards](https://www.buckaroo.nl/online-betalingen/betaalmethoden?search=creditcard)  |  ![Creditcards](Payment%20methods/PNG/CreditCards.png) | ![Creditcards](Payment%20methods/SVG/CreditCards.svg) |
 | [EPS](https://www.buckaroo.nl/online-betalingen/betaalmethoden/eps)  |  ![EPS](Payment%20methods/PNG/EPS.png) | ![EPS](Payment%20methods/SVG/EPS.svg) |
