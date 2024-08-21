@@ -55,7 +55,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [PayPerEmail](https://www.buckaroo.nl/online-betalingen/betaalmethoden/payperemail)  |  ![PayPerEmail](Payment%20methods/PNG/PayPerEmail.png) | ![PayPerEmail](Payment%20methods/SVG/PayPerEmail.svg) |
 | [POS (Point Of Sale)](https://www.buckaroo.nl/pinapparaten)  |  ![Point Of Sale](Payment%20methods/PNG/POS.png) | ![Point Of Sale](Payment%20methods/SVG/POS.svg) |
 | [POS (Point Of Sale with NFC)](https://www.buckaroo.nl/pinapparaten)  |  ![Point Of Sale with NFC](Payment%20methods/PNG/POS-NFC.png) | ![Point Of Sale with NFC](Payment%20methods/SVG/POS-NFC.svg) |
-| [Riverty/AfterPay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/afterpay-riverty-nl)  |  ![Riverty](Payment%20methods/PNG/AfterPay.png)  | ![Riverty](Payment%20methods/SVG/AfterPay.svg) |
+| [Riverty](https://www.buckaroo.nl/online-betalingen/betaalmethoden/afterpay-riverty-nl)  |  ![Riverty](Payment%20methods/PNG/Riverty.png)  | ![Riverty](Payment%20methods/SVG/Riverty.svg) |
 | [Przelewy24](https://www.buckaroo.nl/online-betalingen/betaalmethoden/przelewy24)  |  ![Przelewy24](Payment%20methods/PNG/Przelewy24.png) | ![Przelewy24](Payment%20methods/SVG/Przelewy24.svg) |
 | [SEPA Credit Transfer](https://www.buckaroo.nl/online-betalingen/betaalmethoden/sepa-overboeking)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-credittransfer.svg) |
 | [SEPA Direct Debit](https://www.buckaroo.nl/online-betalingen/betaalmethoden/sepa-incasso)  |  ![SEPA Direct Debit](Payment%20methods/PNG/SEPA-directdebit.png) | ![SEPA Direct Debit](Payment%20methods/SVG/SEPA-directdebit.svg) |
