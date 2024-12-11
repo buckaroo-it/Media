@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.buckaroo.nl/media/3493/media_icon.png" width="200px" position="center">
+  <img src="https://github.com/user-attachments/assets/47373a9b-1e67-4a78-b7b1-2fe75815541e" width="200px" position="center">
 </p>
 
 # Buckaroo Media
