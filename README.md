@@ -41,15 +41,16 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [EPS](https://www.buckaroo.nl/online-betalingen/betaalmethoden/eps)  |  ![EPS](Payment%20methods/PNG/EPS.png) | ![EPS](Payment%20methods/SVG/EPS.svg) |
 | [Giftcards](https://www.buckaroo.nl/online-betalingen/betaalmethoden/cadeaukaarten)  |  ![Giftcards](Payment%20methods/PNG/Giftcards.png) | ![Giftcards](Payment%20methods/SVG/Giftcards.svg) |
 | [Giropay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/giropay)  |  ![Giropay](Payment%20methods/PNG/Giropay.png) | ![Giropay](Payment%20methods/SVG/Giropay.svg) |
+| [goSettle](https://www.buckaroo.nl/online-betalingen/betaalmethoden/knaken)  |  ![goSettle](Payment%20methods/PNG/GoSettle.png) | ![goSettle](Payment%20methods/SVG/GoSettle.svg) |
 | [iDEAL](https://www.buckaroo.nl/online-betalingen/betaalmethoden/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL.png) | ![iDEAL](Payment%20methods/SVG/iDEAL.svg) |
 | [iDEAL QR](https://www.buckaroo.nl/online-betalingen/betaalmethoden/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL-QR.png) | ![iDEAL](Payment%20methods/SVG/iDEAL-QR.svg) |
 | [iDEAL In3](https://www.buckaroo.nl/online-betalingen/betaalmethoden/in3)  |  ![iDEAL In3](Payment%20methods/PNG/iDEAL-In3.png) | ![iDEAL In3](Payment%20methods/SVG/iDEAL-In3.svg) |
 | [In3](https://www.buckaroo.nl/online-betalingen/betaalmethoden/in3)  |  ![In3](Payment%20methods/PNG/In3.png) | ![In3](Payment%20methods/SVG/In3.svg) |
 | [KBC](https://www.buckaroo.nl/online-betalingen/betaalmethoden/kbc)  |  ![KBC](Payment%20methods/PNG/KBC.png) | ![KBC](Payment%20methods/SVG/KBC.svg) |
 | [Klarna](https://www.buckaroo.nl/online-betalingen/betaalmethoden/klarna)  |  ![Klarna](Payment%20methods/PNG/Klarna.png) | ![Klarna](Payment%20methods/SVG/Klarna.svg) |
-| [Knaken Settle](https://www.buckaroo.nl/online-betalingen/betaalmethoden/knaken)  |  ![Knaken Settle](Payment%20methods/PNG/Knaken.png) | ![Knaken Settle](Payment%20methods/SVG/Knaken.svg) |
 | [MBWay](https://www.buckaroo.nl/online-betalingen/betaalmethoden/mb-way)  |  ![MBWay](Payment%20methods/PNG/MBWay.png) | ![Multibanco](Payment%20methods/SVG/MBWay.svg) |
 | [Multibanco](https://www.buckaroo.nl/online-betalingen/betaalmethoden/multibanco)  |  ![Multibanco](Payment%20methods/PNG/Multibanco.png) | ![Multibanco](Payment%20methods/SVG/Multibanco.svg) |
+| [PayByBank](https://www.buckaroo.nl/online-betalingen/betaalmethoden/pay-by-bank)  |  ![PayByBank](Payment%20methods/PNG/PayByBank.png) | ![PayByBank](Payment%20methods/SVG/PayByBank.svg) |
 | [Payconiq](https://www.buckaroo.nl/online-betalingen/betaalmethoden/payconiq)  |  ![Payconiq](Payment%20methods/PNG/Payconic.png) | ![Payconiq](Payment%20methods/SVG/Payconiq.svg) |
 | [PayPal](https://www.buckaroo.nl/online-betalingen/betaalmethoden/paypal)  |  ![PayPal](Payment%20methods/PNG/PayPal.png) | ![PayPal](Payment%20methods/SVG/PayPal.svg) |
 | [PayPerEmail](https://www.buckaroo.nl/online-betalingen/betaalmethoden/payperemail)  |  ![PayPerEmail](Payment%20methods/PNG/PayPerEmail.png) | ![PayPerEmail](Payment%20methods/SVG/PayPerEmail.svg) |
