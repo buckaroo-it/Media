@@ -66,6 +66,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Trustly](https://www.buckaroo.eu/online-payments/payment-methods/trustly)  |  ![Tinka](Payment%20methods/PNG/Trustly.png) | ![Tinka](Payment%20methods/SVG/Trustly.svg) |
 | [Twint](https://www.buckaroo.nl/)  |  ![Twint](Payment%20methods/PNG/Twint.png) | ![Twint](Payment%20methods/SVG/Twint.svg) |
 | [WeChat Pay](https://www.buckaroo.eu/online-payments/payment-methods/wechat-pay)  |  ![WeChat Pay](Payment%20methods/PNG/WeChatPay.png) | ![WeChat Pay](Payment%20methods/SVG/WeChat%20Pay.svg) |
+| [Wero](https://www.buckaroo.eu/blogs/wero-the-new-standard-for-payment)  |  ![Wero](Payment%20methods/PNG/Wero.png) | ![Wero](Payment%20methods/SVG/Wero.svg) |
 
 # Logos credit and debit card issuers
 | Method  | .PNG | .SVG |
