@@ -35,6 +35,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Bancontact](https://www.buckaroo.eu/online-payments/payment-methods/bancontact)  |  ![Bancontact](Payment%20methods/PNG/Bancontact.png) | ![Bancontact](Payment%20methods/SVG/Bancontact.svg) |
 | [Belfius](https://www.buckaroo.eu/online-payments/payment-methods/belfius)  |  ![Belfius](Payment%20methods/PNG/Belfius.png) | ![Belfius](Payment%20methods/SVG/Belfius.svg) |
 | [Billink](https://www.buckaroo.eu/online-payments/payment-methods/billink)  |  ![Billink](Payment%20methods/PNG/Billink.png) | ![Billink](Payment%20methods/SVG/Billink.svg) |
+| [Bizum](https://www.buckaroo.nl/)  |  ![Billink](Payment%20methods/PNG/Bizum.png) | ![Billink](Payment%20methods/SVG/Bizum.svg) |
 | [Blik](https://www.buckaroo.eu/online-payments/payment-methods/blik)  |  ![Blik](Payment%20methods/PNG/Blik.png) | ![Blik](Payment%20methods/SVG/Blik.svg) |
 | [Buckaroo Voucher](https://www.buckaroo.eu/online-payments/payment-methods/tegoedvoucher)  |  ![Buckaroo Voucher](Payment%20methods/PNG/BuckarooVoucher.png) | ![Buckaroo Voucher](Payment%20methods/SVG/BuckarooVoucher.svg) |
 | Credit- debitcards  |  ![Creditcards](Payment%20methods/PNG/CreditCards.png) | ![Creditcards](Payment%20methods/SVG/CreditCards.svg) |
@@ -61,7 +62,9 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [SEPA Credit Transfer](https://www.buckaroo.eu/online-payments/payment-methods/sepa-overboeking)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-credittransfer.svg) |
 | [SEPA Direct Debit](https://www.buckaroo.eu/online-payments/payment-methods/sepa-incasso)  |  ![SEPA Direct Debit](Payment%20methods/PNG/SEPA-directdebit.png) | ![SEPA Direct Debit](Payment%20methods/SVG/SEPA-directdebit.svg) |
 | [Sofort](https://www.buckaroo.eu/online-payments/payment-methods/sofort)  |  ![Sofort](Payment%20methods/PNG/Sofort.png) | ![Sofort](Payment%20methods/SVG/Sofort.svg) |
+| [Swish](https://www.buckaroo.nl/)  |  ![Swish](Payment%20methods/PNG/Swish.png) | ![Swish](Payment%20methods/SVG/Swish.svg) |
 | [Trustly](https://www.buckaroo.eu/online-payments/payment-methods/trustly)  |  ![Tinka](Payment%20methods/PNG/Trustly.png) | ![Tinka](Payment%20methods/SVG/Trustly.svg) |
+| [Twint](https://www.buckaroo.nl/)  |  ![Twint](Payment%20methods/PNG/Twint.png) | ![Twint](Payment%20methods/SVG/Twint.svg) |
 | [WeChat Pay](https://www.buckaroo.eu/online-payments/payment-methods/wechat-pay)  |  ![WeChat Pay](Payment%20methods/PNG/WeChatPay.png) | ![WeChat Pay](Payment%20methods/SVG/WeChat%20Pay.svg) |
 
 # Logos credit and debit card issuers
@@ -76,8 +79,9 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | Nexi  |  ![Nexi](Creditcard%20issuers/PNG/Nexi.png)  | ![Nexi](Creditcard%20issuers/SVG/Nexi.svg) |
 | Postepay  |  ![Postpay](Creditcard%20issuers/PNG/PostePay.png)  | ![Postpay](Creditcard%20issuers/SVG/Postepay.svg) |
 | VISA  |  ![VISA](Creditcard%20issuers/PNG/VISA.png)  | ![VISA](Creditcard%20issuers/SVG/Visa.svg) |
-| Visa Electron  |  ![Visa Electron](Creditcard%20issuers/PNG/VISAelectron.png)  | ![Visa Electron](Creditcard%20issuers/SVG/VisaElectron.svg) |
+| VISA Electron  |  ![Visa Electron](Creditcard%20issuers/PNG/VISAelectron.png)  | ![Visa Electron](Creditcard%20issuers/SVG/VisaElectron.svg) |
 | V PAY  |  ![V PAY](Creditcard%20issuers/PNG/VPAY.png)  | ![V PAY](Creditcard%20issuers/SVG/VPay.svg) |
+| VISA Click To Pay  |  ![VISA Click To Pay](Creditcard%20issuers/PNG/ClickToPay.png)  | ![VISA Click To Pay](Creditcard%20issuers/SVG/ClickToPay.svg) |
 
 # Logos iDEAL issuers
 | Method  | .PNG | .SVG |
