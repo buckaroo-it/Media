@@ -30,7 +30,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 # Logos payment methods
 | Method  | .PNG | .SVG |
 | ------------- | ------------- | ------------ |
-| [ABN-AMRO Achteraf Betalen](https://www.buckaroo.nl/abn-amro)  |  ![ABN-AMRO Achteraf Betalen](Payment%20methods/PNG/ABN-AMRO-Achteraf-betalen.png)  | ![ABN-AMRO Achteraf Betalen](Payment%20methods/SVG/ABN-AMRO-Achteraf-betalen.svg) |
+| [ABN-AMRO Zakelijk Achteraf Betalen](https://www.buckaroo.nl/abn-amro)  |  ![ABN-AMRO Zakelijk Achteraf Betalen](Payment%20methods/PNG/Zakelijk_achteraf_betalen_AAB.png)  | ![ABN-AMRO Zakelijk Achteraf Betalen](Payment%20methods/SVG/Zakelijk_achteraf_betalen_AAB.svg) |
 | [Alipay](https://www.buckaroo.eu/online-payments/payment-methods/alipay)  |  ![Alipay](Payment%20methods/PNG/AliPay.png)  | ![Alipay](Payment%20methods/SVG/Alipay.svg) |
 | [Apple Pay](https://www.buckaroo.eu/online-payments/payment-methods/apple-pay)  |  ![Apple Pay](Payment%20methods/PNG/ApplePay.png) | ![Apple Pay](Payment%20methods/SVG/Apple%20Pay.svg) |
 | [Bancontact](https://www.buckaroo.eu/online-payments/payment-methods/bancontact)  |  ![Bancontact](Payment%20methods/PNG/Bancontact.png) | ![Bancontact](Payment%20methods/SVG/Bancontact.svg) |
