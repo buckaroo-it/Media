@@ -42,12 +42,10 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | Credit- debitcards  |  ![Creditcards](Payment%20methods/PNG/CreditCards.png) | ![Creditcards](Payment%20methods/SVG/CreditCards.svg) |
 | [EPS](https://www.buckaroo.eu/online-payments/payment-methods/eps)  |  ![EPS](Payment%20methods/PNG/EPS.png) | ![EPS](Payment%20methods/SVG/EPS.svg) |
 | [Giftcards](https://www.buckaroo.eu/online-payments/payment-methods/giftcards)  |  ![Giftcards](Payment%20methods/PNG/Giftcards.png) | ![Giftcards](Payment%20methods/SVG/Giftcards.svg) |
-| Giropay |  ![Giropay](Payment%20methods/PNG/Giropay.png) | ![Giropay](Payment%20methods/SVG/Giropay.svg) |
 | [goSettle](https://www.buckaroo.eu/online-payments/payment-methods/gosettle)  |  ![goSettle](Payment%20methods/PNG/GoSettle.png) | ![goSettle](Payment%20methods/SVG/GoSettle.svg) |
 | [iDEAL x WERO](https://www.buckaroo.eu/blogs/wero-the-new-standard-for-payment)  |  ![iDEAL x WERO](Payment%20methods/PNG/iDEAL-WERO.png) | ![iDEAL x WERO](Payment%20methods/SVG/iDEAL-WERO.svg) |
 | [iDEAL](https://www.buckaroo.eu/online-payments/payment-methods/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL.png) | ![iDEAL](Payment%20methods/SVG/iDEAL.svg) |
 | [iDEAL QR](https://www.buckaroo.eu/online-payments/payment-methods/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL-QR.png) | ![iDEAL](Payment%20methods/SVG/iDEAL-QR.svg) |
-| [iDEAL In3](https://www.buckaroo.eu/online-payments/payment-methods/ideal-in3)  |  ![iDEAL In3](Payment%20methods/PNG/iDEAL-In3.png) | ![iDEAL In3](Payment%20methods/SVG/iDEAL-In3.svg) |
 | [In3](https://www.buckaroo.eu/online-payments/payment-methods/ideal-in3)  |  ![In3](Payment%20methods/PNG/In3.png) | ![In3](Payment%20methods/SVG/In3.svg) |
 | [KBC](https://www.buckaroo.eu/online-payments/payment-methods/kbc)  |  ![KBC](Payment%20methods/PNG/KBC.png) | ![KBC](Payment%20methods/SVG/KBC.svg) |
 | [Klarna](https://www.buckaroo.eu/online-payments/payment-methods/klarna)  |  ![Klarna](Payment%20methods/PNG/Klarna.png) | ![Klarna](Payment%20methods/SVG/Klarna.svg) |
@@ -63,7 +61,6 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Przelewy24](https://www.buckaroo.eu/online-payments/payment-methods/przelewy24)  |  ![Przelewy24](Payment%20methods/PNG/Przelewy24.png) | ![Przelewy24](Payment%20methods/SVG/Przelewy24.svg) |
 | [SEPA Credit Transfer](https://www.buckaroo.eu/online-payments/payment-methods/sepa-overboeking)  |  ![SEPA Credit Transfer](Payment%20methods/PNG/SEPA-credittransfer.png) | ![SEPA Credit Transfer](Payment%20methods/SVG/SEPA-credittransfer.svg) |
 | [SEPA Direct Debit](https://www.buckaroo.eu/online-payments/payment-methods/sepa-incasso)  |  ![SEPA Direct Debit](Payment%20methods/PNG/SEPA-directdebit.png) | ![SEPA Direct Debit](Payment%20methods/SVG/SEPA-directdebit.svg) |
-| [Sofort](https://www.buckaroo.eu/online-payments/payment-methods/sofort)  |  ![Sofort](Payment%20methods/PNG/Sofort.png) | ![Sofort](Payment%20methods/SVG/Sofort.svg) |
 | [Swish](https://www.buckaroo.nl/)  |  ![Swish](Payment%20methods/PNG/Swish.png) | ![Swish](Payment%20methods/SVG/Swish.svg) |
 | [Trustly](https://www.buckaroo.eu/online-payments/payment-methods/trustly)  |  ![Tinka](Payment%20methods/PNG/Trustly.png) | ![Tinka](Payment%20methods/SVG/Trustly.svg) |
 | [Twint](https://www.buckaroo.nl/)  |  ![Twint](Payment%20methods/PNG/Twint.png) | ![Twint](Payment%20methods/SVG/Twint.svg) |
