@@ -42,6 +42,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | Credit- debitcards  |  ![Creditcards](Payment%20methods/PNG/CreditCards.png) | ![Creditcards](Payment%20methods/SVG/CreditCards.svg) |
 | [EPS](https://www.buckaroo.eu/online-payments/payment-methods/eps)  |  ![EPS](Payment%20methods/PNG/EPS.png) | ![EPS](Payment%20methods/SVG/EPS.svg) |
 | [Giftcards](https://www.buckaroo.eu/online-payments/payment-methods/giftcards)  |  ![Giftcards](Payment%20methods/PNG/Giftcards.png) | ![Giftcards](Payment%20methods/SVG/Giftcards.svg) |
+| [Google Pay™](https://docs.buckaroo.io/docs/google-pay)  |  ![Google Pay™](Payment%20methods/PNG/GooglePay.png) | ![Google Pay™](Payment%20methods/SVG/GooglePay.svg) |
 | [goSettle](https://www.buckaroo.eu/online-payments/payment-methods/gosettle)  |  ![goSettle](Payment%20methods/PNG/GoSettle.png) | ![goSettle](Payment%20methods/SVG/GoSettle.svg) |
 | [iDEAL x WERO](https://www.buckaroo.eu/blogs/wero-the-new-standard-for-payment)  |  ![iDEAL x WERO](Payment%20methods/PNG/iDEAL-WERO.png) | ![iDEAL x WERO](Payment%20methods/SVG/iDEAL-WERO.svg) |
 | [iDEAL](https://www.buckaroo.eu/online-payments/payment-methods/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL.png) | ![iDEAL](Payment%20methods/SVG/iDEAL.svg) |
