@@ -9,8 +9,6 @@
 - [Additional information](#additional-information)
 - [Logos payment methods](#logos-payment-methods)
 - [Logos credit and debit card issuers](#logos-credit-and-debit-card-issuers)
-- [Logos iDEAL issuers](#logos-ideal-issuers)
-- [Logos (alternative) iDEAL issuers](#logos-alternative-ideal-issuers)
 - [Logos Pay by Bank issuers (The Netherlands)](#Logos-Pay-by-Bank-issuers-The-Netherlands)
 - [Logos Pay by Bank issuers (Belgium)](#Logos-Pay-by-Bank-issuers-Belgium)
 - [Logos giftcard brands](#logos-giftcard-brands)
@@ -44,8 +42,7 @@ In 2005 Buckaroo started as a Payment Service Provider in the Netherlands. In 20
 | [Giftcards](https://www.buckaroo.eu/online-payments/payment-methods/giftcards)  |  ![Giftcards](Payment%20methods/PNG/Giftcards.png) | ![Giftcards](Payment%20methods/SVG/Giftcards.svg) |
 | [Google Pay™](https://docs.buckaroo.io/docs/google-pay)  |  ![Google Pay™](Payment%20methods/PNG/GooglePay.png) | ![Google Pay™](Payment%20methods/SVG/GooglePay.svg) |
 | [goSettle](https://www.buckaroo.eu/online-payments/payment-methods/gosettle)  |  ![goSettle](Payment%20methods/PNG/GoSettle.png) | ![goSettle](Payment%20methods/SVG/GoSettle.svg) |
-| [iDEAL x WERO](https://www.buckaroo.eu/blogs/wero-the-new-standard-for-payment)  |  ![iDEAL x WERO](Payment%20methods/PNG/iDEAL-WERO.png) | ![iDEAL x WERO](Payment%20methods/SVG/iDEAL-WERO.svg) |
-| [iDEAL](https://www.buckaroo.eu/online-payments/payment-methods/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL.png) | ![iDEAL](Payment%20methods/SVG/iDEAL.svg) |
+| [iDEAL - WERO](https://www.buckaroo.eu/blogs/wero-the-new-standard-for-payment)  |  ![iDEAL x WERO](Payment%20methods/PNG/iDEAL-WERO.png) | ![iDEAL x WERO](Payment%20methods/SVG/iDEAL-WERO.svg) |
 | [iDEAL QR](https://www.buckaroo.eu/online-payments/payment-methods/ideal)  |  ![iDEAL](Payment%20methods/PNG/iDEAL-QR.png) | ![iDEAL](Payment%20methods/SVG/iDEAL-QR.svg) |
 | [In3](https://www.buckaroo.eu/online-payments/payment-methods/ideal-in3)  |  ![In3](Payment%20methods/PNG/In3.png) | ![In3](Payment%20methods/SVG/In3.svg) |
 | [KBC](https://www.buckaroo.eu/online-payments/payment-methods/kbc)  |  ![KBC](Payment%20methods/PNG/KBC.png) | ![KBC](Payment%20methods/SVG/KBC.svg) |
